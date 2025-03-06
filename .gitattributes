@@ -1,2 +1,13 @@
 * text=auto
 * text eol=lf
+*.docx binary
+*.xlsx binary
+*.png binary
+*.prj binary
+*.shp binary
+*.shx binary
+*.dbf binary
+*.bud binary
+*.cbc binary
+*.hed binary
+*.hds binary
