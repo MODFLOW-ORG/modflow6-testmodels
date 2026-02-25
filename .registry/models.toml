@@ -461,8 +461,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "89181af1fd91fe59ea931aae02fe64f855f27c705ee9200c8a9c23831aa7bace"
 
 [files."test001e_UZF_3lay/test001e_UZF_3lay.obs"]
-hash = "b9857f604c0594a466255f040bd5a47a1687a69ae3be749488bd8736ead7d106"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test001e_UZF_3lay/test001e_UZF_3lay.obs"
+hash = "b9857f604c0594a466255f040bd5a47a1687a69ae3be749488bd8736ead7d106"
 
 [files."test001e_UZF_3lay/test001e_UZF_3lay.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test001e_UZF_3lay/test001e_UZF_3lay.oc"
@@ -477,8 +477,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "684b24abee5265a521ea746e46c2077c4b4402ad5a7194453493d1a3d839413a"
 
 [files."test001e_UZF_3lay/test001e_UZF_3lay_head.obs"]
-hash = "78c67035fc6f0c5c1d6090c1ce1e50dcab75b361e4ed44dc951f11fd3915a388"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test001e_UZF_3lay/test001e_UZF_3lay_head.obs"
+hash = "78c67035fc6f0c5c1d6090c1ce1e50dcab75b361e4ed44dc951f11fd3915a388"
 
 [files."test001e_UZF_3layTS/mfsim.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test001e_UZF_3layTS/mfsim.nam"
@@ -661,8 +661,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "2d6d977b36512548fb1f65e44d534919029f26a996f2440df7ebc898b1c01e47"
 
 [files."test001e_UZF_spring/test001e_UZF.obs"]
-hash = "8b3109c9bebe920c414f5bef77323c4c3efc0f2eadd027bac45c71ccda6a6e83"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test001e_UZF_spring/test001e_UZF.obs"
+hash = "8b3109c9bebe920c414f5bef77323c4c3efc0f2eadd027bac45c71ccda6a6e83"
 
 [files."test001e_UZF_spring/test001e_UZF.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test001e_UZF_spring/test001e_UZF.oc"
@@ -741,8 +741,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "f7f745af002996dd02a134c62a2229333e895f5f0a5a1187f52bfd8258502feb"
 
 [files."test001e_noUZF_3lay/test001e_noUZF.obs"]
-hash = "bb50b90d0bd739712e61530a8ddd27a5cef7d23ced00a59a213e40ec99eba825"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test001e_noUZF_3lay/test001e_noUZF.obs"
+hash = "bb50b90d0bd739712e61530a8ddd27a5cef7d23ced00a59a213e40ec99eba825"
 
 [files."test001e_noUZF_3lay/test001e_noUZF.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test001e_noUZF_3lay/test001e_noUZF.oc"
@@ -2737,8 +2737,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "dd10d9b251cb89ca860517356a5edaa7b99b5a7b4851336adbee9f10097a9b19"
 
 [files."test003_gwfs_tr/model_left.chd.obs"]
-hash = "b406545d997223de08d2c1fc7913f6670dc6fead9130d38c8b333555fee34025"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test003_gwfs_tr/model_left.chd.obs"
+hash = "b406545d997223de08d2c1fc7913f6670dc6fead9130d38c8b333555fee34025"
 
 [files."test003_gwfs_tr/model_right.chd"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test003_gwfs_tr/model_right.chd"
@@ -2749,8 +2749,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "346e7d69b8b70dc960182e181fb0875739c53ad0ab8c502c9d7fd54471bd614d"
 
 [files."test004_bcfss/bcf2ss-wel.obs"]
-hash = "e57a255aa309af9c08b60638474cacfda6ee414e704a7603939e4e191c1252e9"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test004_bcfss/bcf2ss-wel.obs"
+hash = "e57a255aa309af9c08b60638474cacfda6ee414e704a7603939e4e191c1252e9"
 
 [files."test004_bcfss/bcf2ss.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test004_bcfss/bcf2ss.dis"
@@ -3121,8 +3121,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "efce16608259f5fb656a96594d8a7055f7495ced2eab3485a9835a88f3071ba4"
 
 [files."test005_advgw_tidal/AdvGW_tidal.ghb.obs"]
-hash = "a76159f0960254f3bd398f14f4b97a99d885b9988b17ee38cd6b591201779d2c"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test005_advgw_tidal/AdvGW_tidal.ghb.obs"
+hash = "a76159f0960254f3bd398f14f4b97a99d885b9988b17ee38cd6b591201779d2c"
 
 [files."test005_advgw_tidal/AdvGW_tidal.head.cont.opncls"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test005_advgw_tidal/AdvGW_tidal.head.cont.opncls"
@@ -3141,8 +3141,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "9dc912684de9ae20f217e34c33e94feb51b7d0a9a2ddf6d61ab6beba0991ebd1"
 
 [files."test005_advgw_tidal/AdvGW_tidal.obs"]
-hash = "723e1aeac1c77b54d5c16bc78932b805b68e765df3f8e8b85676d59761b2ba77"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test005_advgw_tidal/AdvGW_tidal.obs"
+hash = "723e1aeac1c77b54d5c16bc78932b805b68e765df3f8e8b85676d59761b2ba77"
 
 [files."test005_advgw_tidal/AdvGW_tidal.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test005_advgw_tidal/AdvGW_tidal.oc"
@@ -3157,8 +3157,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "f375ab6ba68d10ae0812b99fa69387532452402d7cdffcc1c10e59cce352e001"
 
 [files."test005_advgw_tidal/AdvGW_tidal.riv.obs"]
-hash = "a88ab8155c0bee522b7035da2db4ffbb2c0969754fa73472382e3f26f1942368"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test005_advgw_tidal/AdvGW_tidal.riv.obs"
+hash = "a88ab8155c0bee522b7035da2db4ffbb2c0969754fa73472382e3f26f1942368"
 
 [files."test005_advgw_tidal/AdvGW_tidal.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test005_advgw_tidal/AdvGW_tidal.sto"
@@ -3285,8 +3285,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "7053ffcbb697b2ad6fac4816b3cc5fda796ad553c1167832d3b6c840ab282eb0"
 
 [files."test006_2models-XT3D/simulation.exg.obs"]
-hash = "6447fd96da4ada0dcde32853f1c576734ed9834cb1d6f87102b888aa26a6e73d"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test006_2models-XT3D/simulation.exg.obs"
+hash = "6447fd96da4ada0dcde32853f1c576734ed9834cb1d6f87102b888aa26a6e73d"
 
 [files."test006_2models-XT3D/simulation.ims"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test006_2models-XT3D/simulation.ims"
@@ -3365,8 +3365,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "f237bc9e0fa54c17e800b3207d5360814904af08532f67450107797333088636"
 
 [files."test006_2models/simulation.exg.obs"]
-hash = "6447fd96da4ada0dcde32853f1c576734ed9834cb1d6f87102b888aa26a6e73d"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test006_2models/simulation.exg.obs"
+hash = "6447fd96da4ada0dcde32853f1c576734ed9834cb1d6f87102b888aa26a6e73d"
 
 [files."test006_2models/simulation.exg.options.dat"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test006_2models/simulation.exg.options.dat"
@@ -7821,16 +7821,16 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "e9ec7322144355580d2a333ae582c25bb4f864612a8cd038c2e5a9c3b342e807"
 
 [files."test020_NT_EI/Extraction.maw.obs"]
-hash = "514ba60e130bf011b29590a4b343fda9e7bffae4027badf006eccfb9fea44307"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NT_EI/Extraction.maw.obs"
+hash = "514ba60e130bf011b29590a4b343fda9e7bffae4027badf006eccfb9fea44307"
 
 [files."test020_NT_EI/Injection.maw"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NT_EI/Injection.maw"
 hash = "7ebd9eacb0106dbd805f14a8f5620183401c72a0ffe00ab6e30983f9f75b14de"
 
 [files."test020_NT_EI/Injection.maw.obs"]
-hash = "eed3bcfde57bb21a0f4df98fa2b00bfa25d2b5d14243508596a8cb1ebea40a88"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NT_EI/Injection.maw.obs"
+hash = "eed3bcfde57bb21a0f4df98fa2b00bfa25d2b5d14243508596a8cb1ebea40a88"
 
 [files."test020_NT_EI/NT_EI.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NT_EI/NT_EI.dis"
@@ -7853,8 +7853,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "48dc8203f10974ea7f16c99f6c1daf03c655c5fc5fa2c9dc453a779919426fb0"
 
 [files."test020_NT_EI/NT_EI.obs"]
-hash = "112c812211cf9877b28675d1b8b4cc49da9d72c8216eb512e515948864c4779e"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NT_EI/NT_EI.obs"
+hash = "112c812211cf9877b28675d1b8b4cc49da9d72c8216eb512e515948864c4779e"
 
 [files."test020_NT_EI/NT_EI.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NT_EI/NT_EI.oc"
@@ -7929,8 +7929,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "3d47a00edb4fdd5d758d116e591207ac96276731d09481e10919a8337cc5d7f9"
 
 [files."test020_NevilleTonkinTransient/NT_Transient.maw.obs"]
-hash = "3831f27aa6dd859ad872044e5046361b22246d5554b680d415435410cbcd2d69"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient/NT_Transient.maw.obs"
+hash = "3831f27aa6dd859ad872044e5046361b22246d5554b680d415435410cbcd2d69"
 
 [files."test020_NevilleTonkinTransient/NT_Transient.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient/NT_Transient.nam"
@@ -7941,8 +7941,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "16bcd3e116ae5a307598459b8a2b1effd7d97a27b1acc946e1faef83dc00b7d2"
 
 [files."test020_NevilleTonkinTransient/NT_Transient.obs"]
-hash = "f3012aab6d0dfc8556bfcb921d59a911dc4179922b9d560ffbb4c9151b5ecbf0"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient/NT_Transient.obs"
+hash = "f3012aab6d0dfc8556bfcb921d59a911dc4179922b9d560ffbb4c9151b5ecbf0"
 
 [files."test020_NevilleTonkinTransient/NT_Transient.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient/NT_Transient.oc"
@@ -8013,8 +8013,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "2b1b3a51b175a885108207311ed3866114a0041ec009e1c6e33c87de972cc2da"
 
 [files."test020_NevilleTonkinTransientTS/NT_Transient.maw.obs"]
-hash = "666a4eeb8c8133375533f3b05ebb20c51edd53aceffd5dabbab72f076606f1cb"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransientTS/NT_Transient.maw.obs"
+hash = "666a4eeb8c8133375533f3b05ebb20c51edd53aceffd5dabbab72f076606f1cb"
 
 [files."test020_NevilleTonkinTransientTS/NT_Transient.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransientTS/NT_Transient.nam"
@@ -8025,8 +8025,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "16bcd3e116ae5a307598459b8a2b1effd7d97a27b1acc946e1faef83dc00b7d2"
 
 [files."test020_NevilleTonkinTransientTS/NT_Transient.obs"]
-hash = "aa705e0aefbd776a10a26e299522040f88519210b7cd8afeb97a6d77a17fe2e7"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransientTS/NT_Transient.obs"
+hash = "aa705e0aefbd776a10a26e299522040f88519210b7cd8afeb97a6d77a17fe2e7"
 
 [files."test020_NevilleTonkinTransientTS/NT_Transient.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransientTS/NT_Transient.oc"
@@ -8097,8 +8097,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "eb136ab096ff61be50988ee8b43ee38914d5bd2f7c7dbaff743a17934b13e84f"
 
 [files."test020_NevilleTonkinTransientTS2/NT_Transient.maw.obs"]
-hash = "a6cde3c05e557cc8846ea6e890eb29e66facc23e8e1fc67ad2e6033d2e683aa7"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransientTS2/NT_Transient.maw.obs"
+hash = "a6cde3c05e557cc8846ea6e890eb29e66facc23e8e1fc67ad2e6033d2e683aa7"
 
 [files."test020_NevilleTonkinTransientTS2/NT_Transient.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransientTS2/NT_Transient.nam"
@@ -8109,8 +8109,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "16bcd3e116ae5a307598459b8a2b1effd7d97a27b1acc946e1faef83dc00b7d2"
 
 [files."test020_NevilleTonkinTransientTS2/NT_Transient.obs"]
-hash = "aa705e0aefbd776a10a26e299522040f88519210b7cd8afeb97a6d77a17fe2e7"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransientTS2/NT_Transient.obs"
+hash = "aa705e0aefbd776a10a26e299522040f88519210b7cd8afeb97a6d77a17fe2e7"
 
 [files."test020_NevilleTonkinTransientTS2/NT_Transient.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransientTS2/NT_Transient.oc"
@@ -8249,8 +8249,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "325aa973dd14de462d063034ad74675e795f5948903969d6242c3481d02db07f"
 
 [files."test020_NevilleTonkinTransient_constantMAW/NT_Transient.maw.obs"]
-hash = "1b3f1fe41678e83929d3e3a2301186bf3f3f5c170f5275da09ca396760a7e6bc"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_constantMAW/NT_Transient.maw.obs"
+hash = "1b3f1fe41678e83929d3e3a2301186bf3f3f5c170f5275da09ca396760a7e6bc"
 
 [files."test020_NevilleTonkinTransient_constantMAW/NT_Transient.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_constantMAW/NT_Transient.nam"
@@ -8261,8 +8261,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "16bcd3e116ae5a307598459b8a2b1effd7d97a27b1acc946e1faef83dc00b7d2"
 
 [files."test020_NevilleTonkinTransient_constantMAW/NT_Transient.obs"]
-hash = "913c574d9a28aac1c7f0208020090d70f7510f3f4db8cfcd2010492d3578244e"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_constantMAW/NT_Transient.obs"
+hash = "913c574d9a28aac1c7f0208020090d70f7510f3f4db8cfcd2010492d3578244e"
 
 [files."test020_NevilleTonkinTransient_constantMAW/NT_Transient.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_constantMAW/NT_Transient.oc"
@@ -8337,8 +8337,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "92ad168de1221d715dd672a88bc8bca25658fe86aea2be6ad82dbbda77a29744"
 
 [files."test020_NevilleTonkinTransient_cumcond/NT_Transient.maw.obs"]
-hash = "99ca2bbc70ceb57c164c8204861f7961564f4503e613ccfbd3e21e7b2edae04f"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_cumcond/NT_Transient.maw.obs"
+hash = "99ca2bbc70ceb57c164c8204861f7961564f4503e613ccfbd3e21e7b2edae04f"
 
 [files."test020_NevilleTonkinTransient_cumcond/NT_Transient.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_cumcond/NT_Transient.nam"
@@ -8349,8 +8349,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "3121190dc4fa535356fb1a17d1587bf8d7ca66d763a64bc6649c496699545624"
 
 [files."test020_NevilleTonkinTransient_cumcond/NT_Transient.obs"]
-hash = "f3012aab6d0dfc8556bfcb921d59a911dc4179922b9d560ffbb4c9151b5ecbf0"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_cumcond/NT_Transient.obs"
+hash = "f3012aab6d0dfc8556bfcb921d59a911dc4179922b9d560ffbb4c9151b5ecbf0"
 
 [files."test020_NevilleTonkinTransient_cumcond/NT_Transient.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_cumcond/NT_Transient.oc"
@@ -8393,8 +8393,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "af75a380453cb6c5a17738a8c4a5ab602624cb3932a970351bf7b02105d5e70e"
 
 [files."test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.maw.obs"]
-hash = "99ca2bbc70ceb57c164c8204861f7961564f4503e613ccfbd3e21e7b2edae04f"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.maw.obs"
+hash = "99ca2bbc70ceb57c164c8204861f7961564f4503e613ccfbd3e21e7b2edae04f"
 
 [files."test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.nam"
@@ -8405,8 +8405,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "3121190dc4fa535356fb1a17d1587bf8d7ca66d763a64bc6649c496699545624"
 
 [files."test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.obs"]
-hash = "f3012aab6d0dfc8556bfcb921d59a911dc4179922b9d560ffbb4c9151b5ecbf0"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.obs"
+hash = "f3012aab6d0dfc8556bfcb921d59a911dc4179922b9d560ffbb4c9151b5ecbf0"
 
 [files."test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.oc"
@@ -8477,8 +8477,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "ce2592fcebc0cddda9d2500c6a21ae0e1340ba03baef06cb478292051873b3e2"
 
 [files."test020_NevilleTonkinTransient_thickstrt/NT_Transient.maw.obs"]
-hash = "99ca2bbc70ceb57c164c8204861f7961564f4503e613ccfbd3e21e7b2edae04f"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_thickstrt/NT_Transient.maw.obs"
+hash = "99ca2bbc70ceb57c164c8204861f7961564f4503e613ccfbd3e21e7b2edae04f"
 
 [files."test020_NevilleTonkinTransient_thickstrt/NT_Transient.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_thickstrt/NT_Transient.nam"
@@ -8489,8 +8489,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "cacd6b86d01d62de323bcfdd28c0ac55f909906ede8859a12742c034f4b1dc62"
 
 [files."test020_NevilleTonkinTransient_thickstrt/NT_Transient.obs"]
-hash = "f3012aab6d0dfc8556bfcb921d59a911dc4179922b9d560ffbb4c9151b5ecbf0"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_thickstrt/NT_Transient.obs"
+hash = "f3012aab6d0dfc8556bfcb921d59a911dc4179922b9d560ffbb4c9151b5ecbf0"
 
 [files."test020_NevilleTonkinTransient_thickstrt/NT_Transient.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test020_NevilleTonkinTransient_thickstrt/NT_Transient.oc"
@@ -8801,8 +8801,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "b14230db7d4d515562dc7fecf79e8bcf71af8411947b9b7bfa831aabb45ef74b"
 
 [files."test023_FlowingWell/FW_Transient.maw.obs"]
-hash = "6bdcfe26f0f2c216821a43fac84cc613f1ed9ceb607dd9941dbe179cfe6ef110"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test023_FlowingWell/FW_Transient.maw.obs"
+hash = "6bdcfe26f0f2c216821a43fac84cc613f1ed9ceb607dd9941dbe179cfe6ef110"
 
 [files."test023_FlowingWell/FW_Transient.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test023_FlowingWell/FW_Transient.nam"
@@ -8813,8 +8813,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "c8941fd5e18d5b67c2991d38b4f6bb6ff880a18b02ed3fcae46bcbd40a6ac315"
 
 [files."test023_FlowingWell/FW_Transient.obs"]
-hash = "9684fda8e97c4a95b8e68750a2882f63db63f9dbcc8952c0bb44b10164da9759"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test023_FlowingWell/FW_Transient.obs"
+hash = "9684fda8e97c4a95b8e68750a2882f63db63f9dbcc8952c0bb44b10164da9759"
 
 [files."test023_FlowingWell/FW_Transient.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test023_FlowingWell/FW_Transient.oc"
@@ -8893,8 +8893,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "36a9166fd06d2cc812e0fa1025b2b65873260a9a62c86dc7e2675f906fb27fda"
 
 [files."test024_Reilly/Reilly.maw.obs"]
-hash = "d64aec225c4ddd137f4277f7bd53d5422a0ac90259cf72bce25a02f22c914019"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test024_Reilly/Reilly.maw.obs"
+hash = "d64aec225c4ddd137f4277f7bd53d5422a0ac90259cf72bce25a02f22c914019"
 
 [files."test024_Reilly/Reilly.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test024_Reilly/Reilly.nam"
@@ -8905,8 +8905,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "2ce6162a00b30f43ff82c5e4eba3341610cdb6cc68020a85e13d0049777ee223"
 
 [files."test024_Reilly/Reilly.obs"]
-hash = "fc03db4a5ba6589c8ae37c47e17246257d5bf1280e37657c96a874f675f0d6be"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test024_Reilly/Reilly.obs"
+hash = "fc03db4a5ba6589c8ae37c47e17246257d5bf1280e37657c96a874f675f0d6be"
 
 [files."test024_Reilly/Reilly.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test024_Reilly/Reilly.oc"
@@ -9009,8 +9009,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "0b6069d297d8852fc06cceea5814c2e7484a03f12e6d9f7ccc67bc9928a803a8"
 
 [files."test024_Reilly_ext/Reilly.maw.obs"]
-hash = "d64aec225c4ddd137f4277f7bd53d5422a0ac90259cf72bce25a02f22c914019"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test024_Reilly_ext/Reilly.maw.obs"
+hash = "d64aec225c4ddd137f4277f7bd53d5422a0ac90259cf72bce25a02f22c914019"
 
 [files."test024_Reilly_ext/Reilly.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test024_Reilly_ext/Reilly.nam"
@@ -9021,8 +9021,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "47c11a50433ef5cbce873764b99c7a208fe868a18ecb46be929af3c577f483a0"
 
 [files."test024_Reilly_ext/Reilly.obs"]
-hash = "fc03db4a5ba6589c8ae37c47e17246257d5bf1280e37657c96a874f675f0d6be"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test024_Reilly_ext/Reilly.obs"
+hash = "fc03db4a5ba6589c8ae37c47e17246257d5bf1280e37657c96a874f675f0d6be"
 
 [files."test024_Reilly_ext/Reilly.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test024_Reilly_ext/Reilly.oc"
@@ -9337,8 +9337,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "385902c95510dc8971d46c9444f8ef3d6f097afa8413c619ed38e28666197fcb"
 
 [files."test026_WellReduction/Well_Reduction.obs"]
-hash = "ae636a07010009acb11f27fdfcfae6dba2d1cbd5cbbc268e2acb859f518e41ab"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test026_WellReduction/Well_Reduction.obs"
+hash = "ae636a07010009acb11f27fdfcfae6dba2d1cbd5cbbc268e2acb859f518e41ab"
 
 [files."test026_WellReduction/Well_Reduction.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test026_WellReduction/Well_Reduction.oc"
@@ -9353,8 +9353,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "4f607b0a5cb099bf29092fe58b77cda310e55d4aaad4ee11f0818739c5dadc54"
 
 [files."test026_WellReduction/Well_Reduction.wel.obs"]
-hash = "cc402e619f4786f6443a7f7874ead14155ab1f001c6094f58ab4e07782dad16a"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test026_WellReduction/Well_Reduction.wel.obs"
+hash = "cc402e619f4786f6443a7f7874ead14155ab1f001c6094f58ab4e07782dad16a"
 
 [files."test026_WellReduction/mfnwt/Well_Reduction.bas"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test026_WellReduction/mfnwt/Well_Reduction.bas"
@@ -9501,8 +9501,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "6d72c821cf3e5ed3ab50a5833133da6a11a0d126b3ba0af19bcef671e78a1f0f"
 
 [files."test027_TimeseriesTest/timeseriestest.obs"]
-hash = "259e1d3201958fedcfac82fd6f4a9397c71a3a7fe1914e578c6e15855d057b69"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test027_TimeseriesTest/timeseriestest.obs"
+hash = "259e1d3201958fedcfac82fd6f4a9397c71a3a7fe1914e578c6e15855d057b69"
 
 [files."test027_TimeseriesTest/timeseriestest.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test027_TimeseriesTest/timeseriestest.oc"
@@ -9521,8 +9521,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "29090167885e3947250fce429f8a3291d559d8713c3b97d3c24462e189647320"
 
 [files."test027_TimeseriesTest/timeseriestest.wel.obs"]
-hash = "e1559ccdcd4391a090c656da5afbeb33c0687425d61711b276c1477b279662af"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test027_TimeseriesTest/timeseriestest.wel.obs"
+hash = "e1559ccdcd4391a090c656da5afbeb33c0687425d61711b276c1477b279662af"
 
 [files."test027_TimeseriesTest_idomain/mf2005/timeseriestest.bas"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test027_TimeseriesTest_idomain/mf2005/timeseriestest.bas"
@@ -9629,8 +9629,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "6d72c821cf3e5ed3ab50a5833133da6a11a0d126b3ba0af19bcef671e78a1f0f"
 
 [files."test027_TimeseriesTest_idomain/timeseriestest.obs"]
-hash = "259e1d3201958fedcfac82fd6f4a9397c71a3a7fe1914e578c6e15855d057b69"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test027_TimeseriesTest_idomain/timeseriestest.obs"
+hash = "259e1d3201958fedcfac82fd6f4a9397c71a3a7fe1914e578c6e15855d057b69"
 
 [files."test027_TimeseriesTest_idomain/timeseriestest.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test027_TimeseriesTest_idomain/timeseriestest.oc"
@@ -9649,8 +9649,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "29090167885e3947250fce429f8a3291d559d8713c3b97d3c24462e189647320"
 
 [files."test027_TimeseriesTest_idomain/timeseriestest.wel.obs"]
-hash = "e1559ccdcd4391a090c656da5afbeb33c0687425d61711b276c1477b279662af"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test027_TimeseriesTest_idomain/timeseriestest.wel.obs"
+hash = "e1559ccdcd4391a090c656da5afbeb33c0687425d61711b276c1477b279662af"
 
 [files."test028_sfr/data/sfr2sfr8.xlsx"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr/data/sfr2sfr8.xlsx"
@@ -9773,8 +9773,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "c8a94f17ab149ddcd1d83a5d88300e5e57d840cec2ee72027dee3526d08beb50"
 
 [files."test028_sfr/test1tr.evt.obs"]
-hash = "da32ab65bde6a7d287a2e75fe76da05e28f99f68efa54c5b34465cb1835ccb9a"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr/test1tr.evt.obs"
+hash = "da32ab65bde6a7d287a2e75fe76da05e28f99f68efa54c5b34465cb1835ccb9a"
 
 [files."test028_sfr/test1tr.ghb"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr/test1tr.ghb"
@@ -9801,8 +9801,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "25bbd1956ac009fc1a23f3145e55331496dbe8d76f9c391bffd020cbed78e91e"
 
 [files."test028_sfr/test1tr.sfr.obs"]
-hash = "d9363505f500de45410f6e2a28ca70c672ff025cd07439e63307a92fa43212ca"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr/test1tr.sfr.obs"
+hash = "d9363505f500de45410f6e2a28ca70c672ff025cd07439e63307a92fa43212ca"
 
 [files."test028_sfr/test1tr.sfr8"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr/test1tr.sfr8"
@@ -10589,8 +10589,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "eed389311f74a2b6ce33c235516e4182c9f3e974256a54b7741991b484173ba0"
 
 [files."test028_sfr_simple/mf6.sfr.obs"]
-hash = "48470e5ae82b5a83bc2813cd7d655d2809a0e5b00893cf53024d1447cea01708"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_simple/mf6.sfr.obs"
+hash = "48470e5ae82b5a83bc2813cd7d655d2809a0e5b00893cf53024d1447cea01708"
 
 [files."test028_sfr_simple/mf6.sfr6"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_simple/mf6.sfr6"
@@ -12013,8 +12013,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "8c85f206c46290d5144e35070b4db1f8bf930b8106f0be1ab4ad86401c152488"
 
 [files."test034_nwtp2/test034_nwtp2.obs"]
-hash = "7f8291921e692c7b98e4d98a25bcd7a09dad48281bf083991a6071c8a221323b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test034_nwtp2/test034_nwtp2.obs"
+hash = "7f8291921e692c7b98e4d98a25bcd7a09dad48281bf083991a6071c8a221323b"
 
 [files."test034_nwtp2/test034_nwtp2.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test034_nwtp2/test034_nwtp2.oc"
@@ -12101,8 +12101,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "3f58ba812632b17c3a4f74b84986137bfb322e3eb23c44bf843866107af5fba5"
 
 [files."test034_nwtp2_1d/test034_nwtp2.obs"]
-hash = "e49d639d4dfc99b08a19be467428d9edc7f53c7bf80ae8ce795c51c18082086c"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test034_nwtp2_1d/test034_nwtp2.obs"
+hash = "e49d639d4dfc99b08a19be467428d9edc7f53c7bf80ae8ce795c51c18082086c"
 
 [files."test034_nwtp2_1d/test034_nwtp2.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test034_nwtp2_1d/test034_nwtp2.oc"
@@ -13261,8 +13261,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "f4fb2133c7347476ae7b41cef4365748cb67125036e7f1a3b434edb17a111c0a"
 
 [files."test042_lake0_embeddedh/lake0_embedded.lak.obs"]
-hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh/lake0_embedded.lak.obs"
+hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 
 [files."test042_lake0_embeddedh/lake0_embedded.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh/lake0_embedded.nam"
@@ -13273,8 +13273,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "3d0a06094a01e0d41bbb1e8d3573b9d7e62b43130bbf66a13cf163ac36ae069d"
 
 [files."test042_lake0_embeddedh/lake0_embedded.obs"]
-hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh/lake0_embedded.obs"
+hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 
 [files."test042_lake0_embeddedh/lake0_embedded.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh/lake0_embedded.oc"
@@ -13325,8 +13325,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "f4fb2133c7347476ae7b41cef4365748cb67125036e7f1a3b434edb17a111c0a"
 
 [files."test042_lake0_embeddedh_conf/lake0_embedded.lak.obs"]
-hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh_conf/lake0_embedded.lak.obs"
+hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 
 [files."test042_lake0_embeddedh_conf/lake0_embedded.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh_conf/lake0_embedded.nam"
@@ -13337,8 +13337,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "43eafdfbde835d748de318f94689a8ffda68f8d7e5f42b6bc4c94a52c8b80403"
 
 [files."test042_lake0_embeddedh_conf/lake0_embedded.obs"]
-hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh_conf/lake0_embedded.obs"
+hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 
 [files."test042_lake0_embeddedh_conf/lake0_embedded.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh_conf/lake0_embedded.oc"
@@ -13397,8 +13397,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "24f47080367c3e4ddc23114e9a641b8a006017b6371af99c689ff7c4be6b52fa"
 
 [files."test042_lake0_embeddedh_openclose/lake0_embedded.lak.obs"]
-hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh_openclose/lake0_embedded.lak.obs"
+hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 
 [files."test042_lake0_embeddedh_openclose/lake0_embedded.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh_openclose/lake0_embedded.nam"
@@ -13409,8 +13409,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "3d0a06094a01e0d41bbb1e8d3573b9d7e62b43130bbf66a13cf163ac36ae069d"
 
 [files."test042_lake0_embeddedh_openclose/lake0_embedded.obs"]
-hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh_openclose/lake0_embedded.obs"
+hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 
 [files."test042_lake0_embeddedh_openclose/lake0_embedded.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedh_openclose/lake0_embedded.oc"
@@ -13481,8 +13481,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "a758648c83b1e20f6c4b44b8b13b44e638bed8ed19aa150af3f84912a13eff4b"
 
 [files."test042_lake0_embeddedv/lake0_embedded.lak.obs"]
-hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv/lake0_embedded.lak.obs"
+hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 
 [files."test042_lake0_embeddedv/lake0_embedded.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv/lake0_embedded.nam"
@@ -13493,8 +13493,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "6989a50b720cfdf3b2c2321e19aedb6d1f625a0673ea75c603b269b42ca105e8"
 
 [files."test042_lake0_embeddedv/lake0_embedded.obs"]
-hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv/lake0_embedded.obs"
+hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 
 [files."test042_lake0_embeddedv/lake0_embedded.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv/lake0_embedded.oc"
@@ -13545,8 +13545,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "a758648c83b1e20f6c4b44b8b13b44e638bed8ed19aa150af3f84912a13eff4b"
 
 [files."test042_lake0_embeddedv_conf/lake0_embedded.lak.obs"]
-hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv_conf/lake0_embedded.lak.obs"
+hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 
 [files."test042_lake0_embeddedv_conf/lake0_embedded.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv_conf/lake0_embedded.nam"
@@ -13557,8 +13557,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "43eafdfbde835d748de318f94689a8ffda68f8d7e5f42b6bc4c94a52c8b80403"
 
 [files."test042_lake0_embeddedv_conf/lake0_embedded.obs"]
-hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv_conf/lake0_embedded.obs"
+hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 
 [files."test042_lake0_embeddedv_conf/lake0_embedded.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv_conf/lake0_embedded.oc"
@@ -13613,8 +13613,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "155c24786c4765b9f26f6cdb217628cba0401a863d375d2a9f089a1ad8150b3a"
 
 [files."test042_lake0_embeddedv_dev/lake0_embedded.lak.obs"]
-hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv_dev/lake0_embedded.lak.obs"
+hash = "3e2ccb698ca4634fc79d6e58fce8d2a619eb1c0caa4b877ab481ecdd5776977b"
 
 [files."test042_lake0_embeddedv_dev/lake0_embedded.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv_dev/lake0_embedded.nam"
@@ -13625,8 +13625,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "6989a50b720cfdf3b2c2321e19aedb6d1f625a0673ea75c603b269b42ca105e8"
 
 [files."test042_lake0_embeddedv_dev/lake0_embedded.obs"]
-hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv_dev/lake0_embedded.obs"
+hash = "fb3b1b6032b314ff71772444534891446fc1106a104f0b5c25b91582973b75e2"
 
 [files."test042_lake0_embeddedv_dev/lake0_embedded.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test042_lake0_embeddedv_dev/lake0_embedded.oc"
@@ -13661,8 +13661,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "c3214f8ca2c51d484ab6278a91ac24ef41ec45e6fff3617deced5c915713e410"
 
 [files."test043_drylake_dev/drylake.lak.obs"]
-hash = "5b42165d6ee16d82be226a8fbad961960ff6f9ce7ceaebd270bbb9e63cfa237a"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test043_drylake_dev/drylake.lak.obs"
+hash = "5b42165d6ee16d82be226a8fbad961960ff6f9ce7ceaebd270bbb9e63cfa237a"
 
 [files."test043_drylake_dev/drylake.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test043_drylake_dev/drylake.nam"
@@ -13737,8 +13737,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "9a8c3bdc055cdf07acd4015048da36117769b343f31a9c5e4b709785e0be1c24"
 
 [files."test044_lakebotfill_dev/lbf.lak.obs"]
-hash = "a1f3b89bce2ece1540a47a22174ab1b7a6dd0d293d0bac240f9803455d8cd711"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test044_lakebotfill_dev/lbf.lak.obs"
+hash = "a1f3b89bce2ece1540a47a22174ab1b7a6dd0d293d0bac240f9803455d8cd711"
 
 [files."test044_lakebotfill_dev/lbf.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test044_lakebotfill_dev/lbf.nam"
@@ -13749,8 +13749,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "1106d50b2bcf111228de766d07c40e9b98dec318d469c38521d4837d8ae48b8d"
 
 [files."test044_lakebotfill_dev/lbf.obs"]
-hash = "fcda255928bb5391927f5cfd21e6a7a31e7d6e17115e86b4d465b0cfa5e06e3d"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test044_lakebotfill_dev/lbf.obs"
+hash = "fcda255928bb5391927f5cfd21e6a7a31e7d6e17115e86b4d465b0cfa5e06e3d"
 
 [files."test044_lakebotfill_dev/lbf.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test044_lakebotfill_dev/lbf.oc"
@@ -14513,8 +14513,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "87aab1a60928c5ee03fb9bd2ecb13da1cc9f1d0743abe94d259de4718453ec4a"
 
 [files."test045_lake1tr_dev/lakeex1a.lak.obs"]
-hash = "e8464dbd8a0e3be09d996f1c68eeea05723609bf49502a238511ab9af2f59aaa"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake1tr_dev/lakeex1a.lak.obs"
+hash = "e8464dbd8a0e3be09d996f1c68eeea05723609bf49502a238511ab9af2f59aaa"
 
 [files."test045_lake1tr_dev/lakeex1a.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake1tr_dev/lakeex1a.nam"
@@ -14617,8 +14617,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "a7f9b2ccd31e92efe2da9786f473208bd685fdf1e6ac0a9f7938f4edf0f55a47"
 
 [files."test045_lake1tr_nr/lakeex1a.lak.obs"]
-hash = "e8464dbd8a0e3be09d996f1c68eeea05723609bf49502a238511ab9af2f59aaa"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake1tr_nr/lakeex1a.lak.obs"
+hash = "e8464dbd8a0e3be09d996f1c68eeea05723609bf49502a238511ab9af2f59aaa"
 
 [files."test045_lake1tr_nr/lakeex1a.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake1tr_nr/lakeex1a.nam"
@@ -14725,8 +14725,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "bf58f926510e5436a219ab4b2a83d88d2f2373dcf7dc012916064629f6ac67e5"
 
 [files."test045_lake2tr_dev/lakeex2a.lak.obs"]
-hash = "ae5b0fc3cf4068b4a40779189c72ca78976f31b16f2b587524d9e00042ee754b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_dev/lakeex2a.lak.obs"
+hash = "ae5b0fc3cf4068b4a40779189c72ca78976f31b16f2b587524d9e00042ee754b"
 
 [files."test045_lake2tr_dev/lakeex2a.mvr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_dev/lakeex2a.mvr"
@@ -14753,8 +14753,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "d30aab521c7cab6957c134c2e6f3a834bc67f6b47d3876411d3d5b03275c4cce"
 
 [files."test045_lake2tr_dev/lakeex2a.sfr.obs"]
-hash = "9fd06403cabe347b999a664ba7ed1a6311a5e2afac2de9015fb596276061a7fd"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_dev/lakeex2a.sfr.obs"
+hash = "9fd06403cabe347b999a664ba7ed1a6311a5e2afac2de9015fb596276061a7fd"
 
 [files."test045_lake2tr_dev/lakeex2a.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_dev/lakeex2a.sto"
@@ -14849,8 +14849,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "552a5169dcb28859310539d5bb953198d9b802851fa79f356543ce66b48a9282"
 
 [files."test045_lake2tr_il_dev/lakeex2a.lak.obs"]
-hash = "759eab364f1ab6c41aa5ee55473427f01bcdf6bec152009eb674cf83892351ee"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_il_dev/lakeex2a.lak.obs"
+hash = "759eab364f1ab6c41aa5ee55473427f01bcdf6bec152009eb674cf83892351ee"
 
 [files."test045_lake2tr_il_dev/lakeex2a.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_il_dev/lakeex2a.nam"
@@ -14937,8 +14937,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "55a2288526e46afc1f11372acc9ac5ad13062df857e70cbb5281cafb9e660fd2"
 
 [files."test045_lake2tr_nr/lakeex2a.lak.obs"]
-hash = "759eab364f1ab6c41aa5ee55473427f01bcdf6bec152009eb674cf83892351ee"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_nr/lakeex2a.lak.obs"
+hash = "759eab364f1ab6c41aa5ee55473427f01bcdf6bec152009eb674cf83892351ee"
 
 [files."test045_lake2tr_nr/lakeex2a.mvr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_nr/lakeex2a.mvr"
@@ -14965,8 +14965,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "d30aab521c7cab6957c134c2e6f3a834bc67f6b47d3876411d3d5b03275c4cce"
 
 [files."test045_lake2tr_nr/lakeex2a.sfr.obs"]
-hash = "9fd06403cabe347b999a664ba7ed1a6311a5e2afac2de9015fb596276061a7fd"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_nr/lakeex2a.sfr.obs"
+hash = "9fd06403cabe347b999a664ba7ed1a6311a5e2afac2de9015fb596276061a7fd"
 
 [files."test045_lake2tr_nr/lakeex2a.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_nr/lakeex2a.sto"
@@ -15073,8 +15073,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "efd52f3f731cddc8e2759af0330f2c92b5185e45e0a9cbbb077fdf6b6a8bda80"
 
 [files."test045_lake2tr_xsfra_dev/lakeex2a.lak.obs"]
-hash = "ba4fae6072b63553eb6113f864d84046301fbe836442bb3aae63100264fcbc40"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_xsfra_dev/lakeex2a.lak.obs"
+hash = "ba4fae6072b63553eb6113f864d84046301fbe836442bb3aae63100264fcbc40"
 
 [files."test045_lake2tr_xsfra_dev/lakeex2a.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_xsfra_dev/lakeex2a.nam"
@@ -15141,8 +15141,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "552a5169dcb28859310539d5bb953198d9b802851fa79f356543ce66b48a9282"
 
 [files."test045_lake2tr_xsfrb_dev/lakeex2a.lak.obs"]
-hash = "759eab364f1ab6c41aa5ee55473427f01bcdf6bec152009eb674cf83892351ee"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_xsfrb_dev/lakeex2a.lak.obs"
+hash = "759eab364f1ab6c41aa5ee55473427f01bcdf6bec152009eb674cf83892351ee"
 
 [files."test045_lake2tr_xsfrb_dev/lakeex2a.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_xsfrb_dev/lakeex2a.nam"
@@ -15209,8 +15209,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "efd52f3f731cddc8e2759af0330f2c92b5185e45e0a9cbbb077fdf6b6a8bda80"
 
 [files."test045_lake2tr_xsfrc_dev/lakeex2a.lak.obs"]
-hash = "29702198dde82f1c848bb5c5df0fde00b7b5f4eb5158b00aa3cf96c9f71f2220"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_xsfrc_dev/lakeex2a.lak.obs"
+hash = "29702198dde82f1c848bb5c5df0fde00b7b5f4eb5158b00aa3cf96c9f71f2220"
 
 [files."test045_lake2tr_xsfrc_dev/lakeex2a.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_xsfrc_dev/lakeex2a.nam"
@@ -15277,8 +15277,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "efd52f3f731cddc8e2759af0330f2c92b5185e45e0a9cbbb077fdf6b6a8bda80"
 
 [files."test045_lake2tr_xsfrd_dev/lakeex2a.lak.obs"]
-hash = "29702198dde82f1c848bb5c5df0fde00b7b5f4eb5158b00aa3cf96c9f71f2220"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_xsfrd_dev/lakeex2a.lak.obs"
+hash = "29702198dde82f1c848bb5c5df0fde00b7b5f4eb5158b00aa3cf96c9f71f2220"
 
 [files."test045_lake2tr_xsfrd_dev/lakeex2a.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_xsfrd_dev/lakeex2a.nam"
@@ -15345,8 +15345,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "efd52f3f731cddc8e2759af0330f2c92b5185e45e0a9cbbb077fdf6b6a8bda80"
 
 [files."test045_lake2tr_xsfre_dev/lakeex2a.lak.obs"]
-hash = "29702198dde82f1c848bb5c5df0fde00b7b5f4eb5158b00aa3cf96c9f71f2220"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_xsfre_dev/lakeex2a.lak.obs"
+hash = "29702198dde82f1c848bb5c5df0fde00b7b5f4eb5158b00aa3cf96c9f71f2220"
 
 [files."test045_lake2tr_xsfre_dev/lakeex2a.mvr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_xsfre_dev/lakeex2a.mvr"
@@ -15417,8 +15417,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "54d1fe978fa680dbfa8f30ebac78f3691f8f4060832ed9419e5b7cd49270f37b"
 
 [files."test045_lake4ss/lakeex4.lak.obs"]
-hash = "3cc80ef93009306f85be996993f997c2d7b0d76acd866804824b92e473c4da3b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss/lakeex4.lak.obs"
+hash = "3cc80ef93009306f85be996993f997c2d7b0d76acd866804824b92e473c4da3b"
 
 [files."test045_lake4ss/lakeex4.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss/lakeex4.nam"
@@ -15445,8 +15445,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "8926e6b343760f5a53542c59c7c8db60751d04e013bdf3826698b53bda9f7c6a"
 
 [files."test045_lake4ss/rch.obs"]
-hash = "42ebfa82cb9d96bcfffe788112ee265ee6d2320490f809b123daf98abd265856"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss/rch.obs"
+hash = "42ebfa82cb9d96bcfffe788112ee265ee6d2320490f809b123daf98abd265856"
 
 [files."test045_lake4ss_cl_dev/lakeex4.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_cl_dev/lakeex4.dis"
@@ -15469,8 +15469,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "26303da3b80aa4be83424c05646c32a1daac0ebeb1ea409e9862324160a0ee9d"
 
 [files."test045_lake4ss_cl_dev/lakeex4.lak.obs"]
-hash = "3cc80ef93009306f85be996993f997c2d7b0d76acd866804824b92e473c4da3b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_cl_dev/lakeex4.lak.obs"
+hash = "3cc80ef93009306f85be996993f997c2d7b0d76acd866804824b92e473c4da3b"
 
 [files."test045_lake4ss_cl_dev/lakeex4.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_cl_dev/lakeex4.nam"
@@ -15521,8 +15521,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "db881dfbf12debee4719f5b9c6c3241475ae5be06af7273013921b2ecbf810bb"
 
 [files."test045_lake4ss_dev/lakeex4.lak.obs"]
-hash = "3cc80ef93009306f85be996993f997c2d7b0d76acd866804824b92e473c4da3b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_dev/lakeex4.lak.obs"
+hash = "3cc80ef93009306f85be996993f997c2d7b0d76acd866804824b92e473c4da3b"
 
 [files."test045_lake4ss_dev/lakeex4.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_dev/lakeex4.nam"
@@ -15633,8 +15633,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "8926e6b343760f5a53542c59c7c8db60751d04e013bdf3826698b53bda9f7c6a"
 
 [files."test045_lake4ss_dev/rch.obs"]
-hash = "42ebfa82cb9d96bcfffe788112ee265ee6d2320490f809b123daf98abd265856"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_dev/rch.obs"
+hash = "42ebfa82cb9d96bcfffe788112ee265ee6d2320490f809b123daf98abd265856"
 
 [files."test045_lake4ss_il_dev/lakeex4_il.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_il_dev/lakeex4_il.dis"
@@ -15657,8 +15657,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "ebf950291193beee70d9908a47d972f9b8d538e5f5d4e1f40708d99e33fb67d9"
 
 [files."test045_lake4ss_il_dev/lakeex4_il.lak.obs"]
-hash = "3c3ab235a1d74723a5f05f818e568b1acf29afa8e4d975320bde8a0726307928"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_il_dev/lakeex4_il.lak.obs"
+hash = "3c3ab235a1d74723a5f05f818e568b1acf29afa8e4d975320bde8a0726307928"
 
 [files."test045_lake4ss_il_dev/lakeex4_il.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_il_dev/lakeex4_il.nam"
@@ -15793,8 +15793,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "51ac11759bb66330a39c5609f8d055362fcb723ebf34f6cb02ffa70fbd25e51e"
 
 [files."test045_lake4ss_nr_dev/lakeex4.lak.obs"]
-hash = "3cc80ef93009306f85be996993f997c2d7b0d76acd866804824b92e473c4da3b"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/lakeex4.lak.obs"
+hash = "3cc80ef93009306f85be996993f997c2d7b0d76acd866804824b92e473c4da3b"
 
 [files."test045_lake4ss_nr_dev/lakeex4.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/lakeex4.nam"
@@ -15832,22 +15832,6 @@ hash = "fed76d9f296b9b59b6ff2e60a4bef0699894073030c314a3eb474407acffa781"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.gag"
 hash = "976fdeb2f03eadd362b13794bb764eb7cd6a0645303eb248357d4ed4607b4fad"
 
-[files."test045_lake4ss_nr_dev/mfusg/testcase.gage1.out"]
-hash = "c5348caec744ef0c32cdb5e843eb8edd436188aa0124a86ef1e6088c1c50744e"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.gage1.out"
-
-[files."test045_lake4ss_nr_dev/mfusg/testcase.gage2.out"]
-hash = "c9f163d8d12873eb5cd88c128b7103232dc14887bd19bace5bd3ec9a0d1f5a6e"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.gage2.out"
-
-[files."test045_lake4ss_nr_dev/mfusg/testcase.gage3.out"]
-hash = "f36229bbdceddea3f1cec24a85ad8f287c62e0cde92c0c47432b9b6c0e07312f"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.gage3.out"
-
-[files."test045_lake4ss_nr_dev/mfusg/testcase.gage4.out"]
-hash = "416baf4baa6ae51005c720c48e109ea463a6aade6b150ff34d1603b9ce7fe59b"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.gage4.out"
-
 [files."test045_lake4ss_nr_dev/mfusg/testcase.h0"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.h0"
 hash = "f845419131f195d66cdfe01ca3a69a08a0defb6172bc4dc620cffac24f0d58f1"
@@ -15859,10 +15843,6 @@ hash = "49935a8feb40fc4a72333436849d6b655352b7694060e346364b709a29a8d012"
 [files."test045_lake4ss_nr_dev/mfusg/testcase.h2"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.h2"
 hash = "eacd28d94a4a63a8ae724ee367a5e9009aff80e89e6747823618bc66e60b27b5"
-
-[files."test045_lake4ss_nr_dev/mfusg/testcase.hds"]
-hash = "0b2e2373e1545fa014c843d5fc16cc11e52a5aa19416b0d6207ceca262429014"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.hds"
 
 [files."test045_lake4ss_nr_dev/mfusg/testcase.i0"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.i0"
@@ -15899,10 +15879,6 @@ hash = "b786be1ac5a6db04235446a59a7e81a7a5bef07a29ad9a4d6f45b8b9364a4426"
 [files."test045_lake4ss_nr_dev/mfusg/testcase.lpf"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.lpf"
 hash = "07be71dfd242b3b220bd72b7b2c27ee21d0c56fc21d7582250415c62262511b3"
-
-[files."test045_lake4ss_nr_dev/mfusg/testcase.lst"]
-hash = "beb3239f1e4f2eef683dffe143161acce606387f8262f6b863470f0adc065968"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.lst"
 
 [files."test045_lake4ss_nr_dev/mfusg/testcase.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_dev/mfusg/testcase.nam"
@@ -15961,8 +15937,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "ca9d16718c605bd0aaa7b78c075fcb1a905c253869d341d7085dfadf018d5bf5"
 
 [files."test045_lake4ss_nr_embedded/lakeex4.lak.obs"]
-hash = "d3344518d9d1d625a2baf1e9830a220d2ba0a620744d59e6542b42a104b0b925"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_embedded/lakeex4.lak.obs"
+hash = "d3344518d9d1d625a2baf1e9830a220d2ba0a620744d59e6542b42a104b0b925"
 
 [files."test045_lake4ss_nr_embedded/lakeex4.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_embedded/lakeex4.nam"
@@ -15973,8 +15949,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "183d301fccb171f9d659764d8bfa551992e64a70a5d8abfd49f7eca0ccbf17a9"
 
 [files."test045_lake4ss_nr_embedded/lakeex4.obs"]
-hash = "18073f3fd5e3445f86a2523e269c2b6c70ffd7e38c48339fdbcd5677942cc191"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_embedded/lakeex4.obs"
+hash = "18073f3fd5e3445f86a2523e269c2b6c70ffd7e38c48339fdbcd5677942cc191"
 
 [files."test045_lake4ss_nr_embedded/lakeex4.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake4ss_nr_embedded/lakeex4.oc"
@@ -16961,8 +16937,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "9bc05de868f8ac99db2891936398b5f35434e51c5df85cd0f44d41afb840c60d"
 
 [files."test051_uzfp2/uzfp2.uzf.obs"]
-hash = "42ccd56270fb53487b519affd45207b1a3c076195280d2e64b1742b1b509e2d7"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2/uzfp2.uzf.obs"
+hash = "42ccd56270fb53487b519affd45207b1a3c076195280d2e64b1742b1b509e2d7"
 
 [files."test051_uzfp2/uzfp2.wel"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2/uzfp2.wel"
@@ -17033,8 +17009,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "59ad7d2e8b3746879b40bb302c3892065e2214a898b207a18315e79d03144a6c"
 
 [files."test051_uzfp2TS/uzfp2.uzf.obs"]
-hash = "42ccd56270fb53487b519affd45207b1a3c076195280d2e64b1742b1b509e2d7"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2TS/uzfp2.uzf.obs"
+hash = "42ccd56270fb53487b519affd45207b1a3c076195280d2e64b1742b1b509e2d7"
 
 [files."test051_uzfp2TS/uzfp2.uzf.ts"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2TS/uzfp2.uzf.ts"
@@ -17385,8 +17361,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "1b60d7837987c682d974451e5534de96b68c553bef9d700ded6abda0bc7ceaaf"
 
 [files."test051_uzfp2_openclose/uzfp2.uzf.obs"]
-hash = "42ccd56270fb53487b519affd45207b1a3c076195280d2e64b1742b1b509e2d7"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2_openclose/uzfp2.uzf.obs"
+hash = "42ccd56270fb53487b519affd45207b1a3c076195280d2e64b1742b1b509e2d7"
 
 [files."test051_uzfp2_openclose/uzfp2.uzf.per2.ref"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2_openclose/uzfp2.uzf.per2.ref"
@@ -17873,8 +17849,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "18a25f71ccbb7978f4a8b412a226e9022d5f4bbe6d88b002cc622ed4031209f6"
 
 [files."test051_uzfp3_lakmvr_v2_dev/sfr.obs"]
-hash = "fb41e5e538c6f48a068fbd493f46b449248f730c50d292eba5bf68e3ac301bd8"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_v2_dev/sfr.obs"
+hash = "fb41e5e538c6f48a068fbd493f46b449248f730c50d292eba5bf68e3ac301bd8"
 
 [files."test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.dis"
@@ -17933,16 +17909,16 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "140680060e236f22b9197edc56f0c789b5d3ae11c7f817b7ce315882ca819678"
 
 [files."test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2_head.obs"]
-hash = "59d6297f726edb6294ae207834ea1ddfdf4d2bb596c7606b2ab176465e48b957"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2_head.obs"
+hash = "59d6297f726edb6294ae207834ea1ddfdf4d2bb596c7606b2ab176465e48b957"
 
 [files."test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2_lak.obs"]
-hash = "7e54992c1a7da9e75fc5850ae36f3358491c66a0bd4ec76c96edbd75d946f7c7"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2_lak.obs"
+hash = "7e54992c1a7da9e75fc5850ae36f3358491c66a0bd4ec76c96edbd75d946f7c7"
 
 [files."test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2_uzf.obs"]
-hash = "2b39b4f763c03e04aeb0ba3f88ef4fb579859fbf6bd14b72d889bfc908888c2a"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2_uzf.obs"
+hash = "2b39b4f763c03e04aeb0ba3f88ef4fb579859fbf6bd14b72d889bfc908888c2a"
 
 [files."test051_uzfp3_lakmvr_v2_dev/zonebudget/zbud.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_v2_dev/zonebudget/zbud.nam"
@@ -17977,8 +17953,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "18a25f71ccbb7978f4a8b412a226e9022d5f4bbe6d88b002cc622ed4031209f6"
 
 [files."test051_uzfp3_wellakmvr_v2/sfr.obs"]
-hash = "fb41e5e538c6f48a068fbd493f46b449248f730c50d292eba5bf68e3ac301bd8"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_wellakmvr_v2/sfr.obs"
+hash = "fb41e5e538c6f48a068fbd493f46b449248f730c50d292eba5bf68e3ac301bd8"
 
 [files."test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.dis"
@@ -18037,16 +18013,16 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "1f3bba165a77e98b4c55d44f6ec2313dccbbcc7e040c996b5655a1675800eb8a"
 
 [files."test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2_head.obs"]
-hash = "59d6297f726edb6294ae207834ea1ddfdf4d2bb596c7606b2ab176465e48b957"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2_head.obs"
+hash = "59d6297f726edb6294ae207834ea1ddfdf4d2bb596c7606b2ab176465e48b957"
 
 [files."test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2_lak.obs"]
-hash = "7e54992c1a7da9e75fc5850ae36f3358491c66a0bd4ec76c96edbd75d946f7c7"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2_lak.obs"
+hash = "7e54992c1a7da9e75fc5850ae36f3358491c66a0bd4ec76c96edbd75d946f7c7"
 
 [files."test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2_uzf.obs"]
-hash = "7d5937c672c13a9824d82f8483e3bab01b7fc465cd60eee6753259adb4bba74c"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2_uzf.obs"
+hash = "7d5937c672c13a9824d82f8483e3bab01b7fc465cd60eee6753259adb4bba74c"
 
 [files."test051_uzfp3_wellakmvr_v2/zonebudget/zbud.nam"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_wellakmvr_v2/zonebudget/zbud.nam"
@@ -19241,16 +19217,16 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "45695a189b3544574d55b7b7a2a66b63e36811e61bc8f82bf56f661a046bd38e"
 
 [files."test061_csub_holly/holly.csub.obs"]
-hash = "6dfc8227c3b3b529357e58cdd2c611fbfe4011b9c3584218a0bf554533d4ffff"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test061_csub_holly/holly.csub.obs"
+hash = "6dfc8227c3b3b529357e58cdd2c611fbfe4011b9c3584218a0bf554533d4ffff"
 
 [files."test061_csub_holly/holly.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test061_csub_holly/holly.dis"
 hash = "edd32c70892ec81596cb1052d33f768357920185a201f2a1d78e3c617c2cec7c"
 
 [files."test061_csub_holly/holly.gwf.obs"]
-hash = "6222c1f26317322f05e3163528bbd598d1b4d37d7f3b4f5637526c7d4ef3d3c3"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test061_csub_holly/holly.gwf.obs"
+hash = "6222c1f26317322f05e3163528bbd598d1b4d37d7f3b4f5637526c7d4ef3d3c3"
 
 [files."test061_csub_holly/holly.ic"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test061_csub_holly/holly.ic"
@@ -19293,8 +19269,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "57e9624fa3837e1761f8aeea76952ffa21723d90e08ab5b96b334e0c7558839e"
 
 [files."test061_csub_jacob/fig4_base.csub.obs"]
-hash = "e38c2033ec267df2ed71bfd9f984e3a163eee6ca98a2cb3f5fb9ec6e4fff43b5"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test061_csub_jacob/fig4_base.csub.obs"
+hash = "e38c2033ec267df2ed71bfd9f984e3a163eee6ca98a2cb3f5fb9ec6e4fff43b5"
 
 [files."test061_csub_jacob/fig4_base.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test061_csub_jacob/fig4_base.dis"
@@ -19321,8 +19297,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "1a2a8b141bb89170654963d1abc17f501f87c86b555dfc98a2aabe9d08cc83a2"
 
 [files."test061_csub_jacob/fig4_base.obs"]
-hash = "018666fcf6efa9289645b74274f49527eedfcbb60117fa0269189de1662dbe45"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test061_csub_jacob/fig4_base.obs"
+hash = "018666fcf6efa9289645b74274f49527eedfcbb60117fa0269189de1662dbe45"
 
 [files."test061_csub_jacob/fig4_base.oc"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test061_csub_jacob/fig4_base.oc"
@@ -19477,8 +19453,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "c2e56a0fbadd494a2fe8f42dc31fb4d937361a420bc88c962ac66727cac3c295"
 
 [files."test101_fhb/test_fhb.drn.obs"]
-hash = "db0a61d1713a815cdd48619647698e8c254ea99499ff2c8509099ee8e99cbb97"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test101_fhb/test_fhb.drn.obs"
+hash = "db0a61d1713a815cdd48619647698e8c254ea99499ff2c8509099ee8e99cbb97"
 
 [files."test101_fhb/test_fhb.fhb.chd"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test101_fhb/test_fhb.fhb.chd"
@@ -19561,8 +19537,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "d1dc8d7567d1cd702ed6b011e68850fb92d6d8751dad951b19110b4928a54cad"
 
 [files."test102_wel_mvr/wel.obs"]
-hash = "5083c02e5970a4933ee92b67bb0a4929c62e51b35a77536cd947ea830268d87a"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test102_wel_mvr/wel.obs"
+hash = "5083c02e5970a4933ee92b67bb0a4929c62e51b35a77536cd947ea830268d87a"
 
 [files."test102_wel_mvr/welmvr.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test102_wel_mvr/welmvr.dis"
@@ -19609,8 +19585,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "4d9791eb3422efe505adea5fec5da52f52782805883ade366a48084aa497a3ef"
 
 [files."test103_drn_mvr/drn.obs"]
-hash = "2ed04ef44454850e0ad8e0ccd0ee2534d388370ce3e6814d45e61594be8bc4fa"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test103_drn_mvr/drn.obs"
+hash = "2ed04ef44454850e0ad8e0ccd0ee2534d388370ce3e6814d45e61594be8bc4fa"
 
 [files."test103_drn_mvr/drnmvr.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test103_drn_mvr/drnmvr.dis"
@@ -19733,8 +19709,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "a4f3ec60d73abd96dc8c270931be4d7144d4b561f45b5a3def6aefe2e737dca9"
 
 [files."test104_riv_mvr/riv.obs"]
-hash = "e27ac4803d5764cf1bd9bcde1229d178df05549218d874b0a1ac6b8aced9e378"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test104_riv_mvr/riv.obs"
+hash = "e27ac4803d5764cf1bd9bcde1229d178df05549218d874b0a1ac6b8aced9e378"
 
 [files."test104_riv_mvr/rivmvr.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test104_riv_mvr/rivmvr.dis"
@@ -19785,8 +19761,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "2f24649cb7b4f66d3e4ae1581c455238f24bfdfc40540e9eb98cc656751d089b"
 
 [files."test105_ghb_mvr/ghb.obs"]
-hash = "df9af8f43dc45fdd22b7b7c2de92aeffaa3ccf534ae7ec84d7334d06aa7d1ab2"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test105_ghb_mvr/ghb.obs"
+hash = "df9af8f43dc45fdd22b7b7c2de92aeffaa3ccf534ae7ec84d7334d06aa7d1ab2"
 
 [files."test105_ghb_mvr/ghbmvr.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test105_ghb_mvr/ghbmvr.dis"
@@ -19913,8 +19889,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "a3bb4f45999dda4b4d5f9e15852a8aed1642ef1f0388b0a3f6ca335d0657ca0e"
 
 [files."test106_tsnodata/alt_model/model_left.chd.obs"]
-hash = "6c01da5e52bdd12b9bea48524e42813c6a34ac6891704fe012a92539aeb67557"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test106_tsnodata/alt_model/model_left.chd.obs"
+hash = "6c01da5e52bdd12b9bea48524e42813c6a34ac6891704fe012a92539aeb67557"
 
 [files."test106_tsnodata/alt_model/model_right.chd"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test106_tsnodata/alt_model/model_right.chd"
@@ -19985,8 +19961,8 @@ url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop
 hash = "a3bb4f45999dda4b4d5f9e15852a8aed1642ef1f0388b0a3f6ca335d0657ca0e"
 
 [files."test106_tsnodata/model_left.chd.obs"]
-hash = "b406545d997223de08d2c1fc7913f6670dc6fead9130d38c8b333555fee34025"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test106_tsnodata/model_left.chd.obs"
+hash = "b406545d997223de08d2c1fc7913f6670dc6fead9130d38c8b333555fee34025"
 
 [files."test106_tsnodata/model_right.chd"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test106_tsnodata/model_right.chd"
@@ -19999,10 +19975,6 @@ hash = "4ea507711e7a83c474c73f4d721c7464efe868f988642b47b336dc339bcb4342"
 [files."test106_tsnodata/simulation.tdis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test106_tsnodata/simulation.tdis"
 hash = "8a8c6b8ef5f73cd95d0bed744065fabe17378a0f3747a4057d9da4e82913fc60"
-
-[files."test120_mv_dis-lgr/child.bud"]
-hash = "06b20efd7e1617b5ad95d97074f1beb5c5071f72a5b9b67711607612b8865e0e"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr/child.bud"
 
 [files."test120_mv_dis-lgr/child.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr/child.dis"
@@ -20084,10 +20056,6 @@ hash = "57a694c2f7a84c6c922409ed04b8655b1e3873965f80da98ae6492a761a26b28"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr/model.riv"
 hash = "ccb777abc3d1a6b90ee1a1380ce2046d7130339e0929572f5ae89a54186d5e68"
 
-[files."test120_mv_dis-lgr/mv.bud"]
-hash = "ba0594de9d0988e51677a5091a1f3aebbe78f8313fb2a951c729b43bcb0f983a"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr/mv.bud"
-
 [files."test120_mv_dis-lgr/mv.chd"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr/mv.chd"
 hash = "8c8f18fc1c506c3c0d094f37ad7f3c3cfc2cc7f19c479877190584783e40cabe"
@@ -20132,10 +20100,6 @@ hash = "8d138322926eb6b9eb69e2596bf1e8cf623a9c81f4a06845ebb0718b27c697a8"
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr/mv.tdis"
 hash = "3bf446892ec7bff902cda730965589e90c1b0f43c34c902693803708ff7bffc2"
 
-[files."test120_mv_dis-lgr_3models/child1.bud"]
-hash = "d568b2e991d2cdb4ecf67ffee02aa691a88438fadbd3abd7a053fb21f916322c"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr_3models/child1.bud"
-
 [files."test120_mv_dis-lgr_3models/child1.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr_3models/child1.dis"
 hash = "f248f24993d6ee6536328eca705ee440fe0d6d4f9f05585b9002147d6e24a5ea"
@@ -20163,10 +20127,6 @@ hash = "57a694c2f7a84c6c922409ed04b8655b1e3873965f80da98ae6492a761a26b28"
 [files."test120_mv_dis-lgr_3models/child1.riv"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr_3models/child1.riv"
 hash = "c5a87381c7586e3134663e878b932775a68a91982ff9d86ab8938a7e7ed05e47"
-
-[files."test120_mv_dis-lgr_3models/child2.bud"]
-hash = "0f80ef5a5bb1febd7fce451df8858368c441b79dfe149f8a891e43cc448996b6"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr_3models/child2.bud"
 
 [files."test120_mv_dis-lgr_3models/child2.dis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr_3models/child2.dis"
@@ -20231,10 +20191,6 @@ hash = "57a694c2f7a84c6c922409ed04b8655b1e3873965f80da98ae6492a761a26b28"
 [files."test120_mv_dis-lgr_3models/model.riv"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr_3models/model.riv"
 hash = "ccb777abc3d1a6b90ee1a1380ce2046d7130339e0929572f5ae89a54186d5e68"
-
-[files."test120_mv_dis-lgr_3models/mv.bud"]
-hash = "66df2dc9266948922e0cf529480ff6eb4f3e48a05f376ff64a214b97af61dc71"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr_3models/mv.bud"
 
 [files."test120_mv_dis-lgr_3models/mv.chd"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_dis-lgr_3models/mv.chd"
@@ -20331,10 +20287,6 @@ hash = "57a694c2f7a84c6c922409ed04b8655b1e3873965f80da98ae6492a761a26b28"
 [files."test120_mv_disv_xt3d/model.riv"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_disv_xt3d/model.riv"
 hash = "a210b8273011f232187537410b120f767ff0d9d4120624f46530d393236772b1"
-
-[files."test120_mv_disv_xt3d/mv.bud"]
-hash = "a5c3e62bdcce5c0fd6cf377aaa2c0c9867e3e40ba4c1ae677fd6744c089e67f3"
-url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_disv_xt3d/mv.bud"
 
 [files."test120_mv_disv_xt3d/mv.ims"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test120_mv_disv_xt3d/mv.ims"
@@ -20919,9 +20871,11 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test001e_UZF_3lay/test001e_UZF_3lay.ims",
     "test001e_UZF_3lay/test001e_UZF_3lay.nam",
     "test001e_UZF_3lay/test001e_UZF_3lay.npf",
+    "test001e_UZF_3lay/test001e_UZF_3lay.obs",
     "test001e_UZF_3lay/test001e_UZF_3lay.oc",
     "test001e_UZF_3lay/test001e_UZF_3lay.sto",
     "test001e_UZF_3lay/test001e_UZF_3lay.uzf",
+    "test001e_UZF_3lay/test001e_UZF_3lay_head.obs",
 ]
 "mf6/test/test001e_UZF_3layTS" = [
     "test001e_UZF_3layTS/mfsim.nam",
@@ -20965,6 +20919,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test001e_UZF_spring/test001e_UZF.ims",
     "test001e_UZF_spring/test001e_UZF.nam",
     "test001e_UZF_spring/test001e_UZF.npf",
+    "test001e_UZF_spring/test001e_UZF.obs",
     "test001e_UZF_spring/test001e_UZF.oc",
     "test001e_UZF_spring/test001e_UZF.sto",
     "test001e_UZF_spring/test001e_UZF.uzf",
@@ -20986,6 +20941,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test001e_noUZF_3lay/test001e_noUZF.ims",
     "test001e_noUZF_3lay/test001e_noUZF.nam",
     "test001e_noUZF_3lay/test001e_noUZF.npf",
+    "test001e_noUZF_3lay/test001e_noUZF.obs",
     "test001e_noUZF_3lay/test001e_noUZF.oc",
     "test001e_noUZF_3lay/test001e_noUZF.sto",
     "test001e_noUZF_3lay/mfusg/test001e_noUZF_3lay.bas",
@@ -21552,10 +21508,12 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test003_gwfs_tr/model.oc",
     "test003_gwfs_tr/model.sto",
     "test003_gwfs_tr/model_left.chd",
+    "test003_gwfs_tr/model_left.chd.obs",
     "test003_gwfs_tr/model_right.chd",
     "test003_gwfs_tr/simulation.tdis",
 ]
 "mf6/test/test004_bcfss" = [
+    "test004_bcfss/bcf2ss-wel.obs",
     "test004_bcfss/bcf2ss.dis",
     "test004_bcfss/bcf2ss.ic",
     "test004_bcfss/bcf2ss.nam",
@@ -21656,13 +21614,16 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test005_advgw_tidal/AdvGW_tidal.docx",
     "test005_advgw_tidal/AdvGW_tidal.evt",
     "test005_advgw_tidal/AdvGW_tidal.ghb",
+    "test005_advgw_tidal/AdvGW_tidal.ghb.obs",
     "test005_advgw_tidal/AdvGW_tidal.head.cont.opncls",
     "test005_advgw_tidal/AdvGW_tidal.ic",
     "test005_advgw_tidal/AdvGW_tidal.nam",
     "test005_advgw_tidal/AdvGW_tidal.npf",
+    "test005_advgw_tidal/AdvGW_tidal.obs",
     "test005_advgw_tidal/AdvGW_tidal.oc",
     "test005_advgw_tidal/AdvGW_tidal.riv",
     "test005_advgw_tidal/AdvGW_tidal.riv.cont.opncls",
+    "test005_advgw_tidal/AdvGW_tidal.riv.obs",
     "test005_advgw_tidal/AdvGW_tidal.sto",
     "test005_advgw_tidal/AdvGW_tidal.wel",
     "test005_advgw_tidal/AdvGW_tidal_1.rch",
@@ -21699,6 +21660,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test006_2models/simulation.exg",
     "test006_2models/simulation.exg.dimensions.dat",
     "test006_2models/simulation.exg.exchangedata.dat",
+    "test006_2models/simulation.exg.obs",
     "test006_2models/simulation.exg.options.dat",
     "test006_2models/simulation.ims",
     "test006_2models/simulation.tdis",
@@ -21718,6 +21680,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test006_2models-XT3D/model2.oc",
     "test006_2models-XT3D/readme.txt",
     "test006_2models-XT3D/simulation.exg",
+    "test006_2models-XT3D/simulation.exg.obs",
     "test006_2models-XT3D/simulation.ims",
     "test006_2models-XT3D/simulation.tdis",
 ]
@@ -22937,8 +22900,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
 "mf6/test/test020_NT_EI" = [
     "test020_NT_EI/description.txt",
     "test020_NT_EI/Extraction.maw",
+    "test020_NT_EI/Extraction.maw.obs",
     "test020_NT_EI/idomain.ref",
     "test020_NT_EI/Injection.maw",
+    "test020_NT_EI/Injection.maw.obs",
     "test020_NT_EI/mfsim.nam",
     "test020_NT_EI/model.ims",
     "test020_NT_EI/NT_EI.dis",
@@ -22946,6 +22911,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test020_NT_EI/NT_EI.mvr",
     "test020_NT_EI/NT_EI.nam",
     "test020_NT_EI/NT_EI.npf",
+    "test020_NT_EI/NT_EI.obs",
     "test020_NT_EI/NT_EI.oc",
     "test020_NT_EI/NT_EI.sto",
     "test020_NT_EI/simulation.tdis",
@@ -22966,8 +22932,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test020_NevilleTonkinTransient/NT_Transient.dis",
     "test020_NevilleTonkinTransient/NT_Transient.ic",
     "test020_NevilleTonkinTransient/NT_Transient.maw",
+    "test020_NevilleTonkinTransient/NT_Transient.maw.obs",
     "test020_NevilleTonkinTransient/NT_Transient.nam",
     "test020_NevilleTonkinTransient/NT_Transient.npf",
+    "test020_NevilleTonkinTransient/NT_Transient.obs",
     "test020_NevilleTonkinTransient/NT_Transient.oc",
     "test020_NevilleTonkinTransient/NT_Transient.sto",
     "test020_NevilleTonkinTransient/simulation.tdis",
@@ -22987,8 +22955,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test020_NevilleTonkinTransientTS/NT_Transient.dis",
     "test020_NevilleTonkinTransientTS/NT_Transient.ic",
     "test020_NevilleTonkinTransientTS/NT_Transient.maw",
+    "test020_NevilleTonkinTransientTS/NT_Transient.maw.obs",
     "test020_NevilleTonkinTransientTS/NT_Transient.nam",
     "test020_NevilleTonkinTransientTS/NT_Transient.npf",
+    "test020_NevilleTonkinTransientTS/NT_Transient.obs",
     "test020_NevilleTonkinTransientTS/NT_Transient.oc",
     "test020_NevilleTonkinTransientTS/NT_Transient.sto",
     "test020_NevilleTonkinTransientTS/simulation.tdis",
@@ -23008,8 +22978,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test020_NevilleTonkinTransientTS2/NT_Transient.dis",
     "test020_NevilleTonkinTransientTS2/NT_Transient.ic",
     "test020_NevilleTonkinTransientTS2/NT_Transient.maw",
+    "test020_NevilleTonkinTransientTS2/NT_Transient.maw.obs",
     "test020_NevilleTonkinTransientTS2/NT_Transient.nam",
     "test020_NevilleTonkinTransientTS2/NT_Transient.npf",
+    "test020_NevilleTonkinTransientTS2/NT_Transient.obs",
     "test020_NevilleTonkinTransientTS2/NT_Transient.oc",
     "test020_NevilleTonkinTransientTS2/NT_Transient.sto",
     "test020_NevilleTonkinTransientTS2/simulation.tdis",
@@ -23049,8 +23021,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test020_NevilleTonkinTransient_constantMAW/NT_Transient.dis",
     "test020_NevilleTonkinTransient_constantMAW/NT_Transient.ic",
     "test020_NevilleTonkinTransient_constantMAW/NT_Transient.maw",
+    "test020_NevilleTonkinTransient_constantMAW/NT_Transient.maw.obs",
     "test020_NevilleTonkinTransient_constantMAW/NT_Transient.nam",
     "test020_NevilleTonkinTransient_constantMAW/NT_Transient.npf",
+    "test020_NevilleTonkinTransient_constantMAW/NT_Transient.obs",
     "test020_NevilleTonkinTransient_constantMAW/NT_Transient.oc",
     "test020_NevilleTonkinTransient_constantMAW/NT_Transient.sto",
     "test020_NevilleTonkinTransient_constantMAW/simulation.tdis",
@@ -23070,8 +23044,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test020_NevilleTonkinTransient_cumcond/NT_Transient.dis",
     "test020_NevilleTonkinTransient_cumcond/NT_Transient.ic",
     "test020_NevilleTonkinTransient_cumcond/NT_Transient.maw",
+    "test020_NevilleTonkinTransient_cumcond/NT_Transient.maw.obs",
     "test020_NevilleTonkinTransient_cumcond/NT_Transient.nam",
     "test020_NevilleTonkinTransient_cumcond/NT_Transient.npf",
+    "test020_NevilleTonkinTransient_cumcond/NT_Transient.obs",
     "test020_NevilleTonkinTransient_cumcond/NT_Transient.oc",
     "test020_NevilleTonkinTransient_cumcond/NT_Transient.sto",
     "test020_NevilleTonkinTransient_cumcond/simulation.tdis",
@@ -23084,8 +23060,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.dis",
     "test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.ic",
     "test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.maw",
+    "test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.maw.obs",
     "test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.nam",
     "test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.npf",
+    "test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.obs",
     "test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.oc",
     "test020_NevilleTonkinTransient_cumcond_dev/NT_Transient.sto",
     "test020_NevilleTonkinTransient_cumcond_dev/simulation.tdis",
@@ -23105,8 +23083,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test020_NevilleTonkinTransient_thickstrt/NT_Transient.dis",
     "test020_NevilleTonkinTransient_thickstrt/NT_Transient.ic",
     "test020_NevilleTonkinTransient_thickstrt/NT_Transient.maw",
+    "test020_NevilleTonkinTransient_thickstrt/NT_Transient.maw.obs",
     "test020_NevilleTonkinTransient_thickstrt/NT_Transient.nam",
     "test020_NevilleTonkinTransient_thickstrt/NT_Transient.npf",
+    "test020_NevilleTonkinTransient_thickstrt/NT_Transient.obs",
     "test020_NevilleTonkinTransient_thickstrt/NT_Transient.oc",
     "test020_NevilleTonkinTransient_thickstrt/NT_Transient.sto",
     "test020_NevilleTonkinTransient_thickstrt/simulation.tdis",
@@ -23189,8 +23169,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test023_FlowingWell/FW_Transient.dis",
     "test023_FlowingWell/FW_Transient.ic",
     "test023_FlowingWell/FW_Transient.maw",
+    "test023_FlowingWell/FW_Transient.maw.obs",
     "test023_FlowingWell/FW_Transient.nam",
     "test023_FlowingWell/FW_Transient.npf",
+    "test023_FlowingWell/FW_Transient.obs",
     "test023_FlowingWell/FW_Transient.oc",
     "test023_FlowingWell/FW_Transient.sto",
     "test023_FlowingWell/idomain.ref",
@@ -23216,8 +23198,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test024_Reilly/Reilly.dis",
     "test024_Reilly/Reilly.ic",
     "test024_Reilly/Reilly.maw",
+    "test024_Reilly/Reilly.maw.obs",
     "test024_Reilly/Reilly.nam",
     "test024_Reilly/Reilly.npf",
+    "test024_Reilly/Reilly.obs",
     "test024_Reilly/Reilly.oc",
     "test024_Reilly/Reilly.rch",
     "test024_Reilly/simulation.tdis",
@@ -23250,8 +23234,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test024_Reilly_ext/Reilly.dis",
     "test024_Reilly_ext/Reilly.ic",
     "test024_Reilly_ext/Reilly.maw",
+    "test024_Reilly_ext/Reilly.maw.obs",
     "test024_Reilly_ext/Reilly.nam",
     "test024_Reilly_ext/Reilly.npf",
+    "test024_Reilly_ext/Reilly.obs",
     "test024_Reilly_ext/Reilly.oc",
     "test024_Reilly_ext/Reilly.rch",
     "test024_Reilly_ext/simulation.tdis",
@@ -23333,9 +23319,11 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test026_WellReduction/Well_Reduction.ic",
     "test026_WellReduction/Well_Reduction.nam",
     "test026_WellReduction/Well_Reduction.npf",
+    "test026_WellReduction/Well_Reduction.obs",
     "test026_WellReduction/Well_Reduction.oc",
     "test026_WellReduction/Well_Reduction.sto",
     "test026_WellReduction/Well_Reduction.wel",
+    "test026_WellReduction/Well_Reduction.wel.obs",
     "test026_WellReduction/mfnwt/Well_Reduction.bas",
     "test026_WellReduction/mfnwt/Well_Reduction.dis",
     "test026_WellReduction/mfnwt/Well_Reduction.drn",
@@ -23360,10 +23348,12 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test027_TimeseriesTest/timeseriestest.mltarr",
     "test027_TimeseriesTest/timeseriestest.nam",
     "test027_TimeseriesTest/timeseriestest.npf",
+    "test027_TimeseriesTest/timeseriestest.obs",
     "test027_TimeseriesTest/timeseriestest.oc",
     "test027_TimeseriesTest/timeseriestest.rch",
     "test027_TimeseriesTest/timeseriestest.sto",
     "test027_TimeseriesTest/timeseriestest.wel",
+    "test027_TimeseriesTest/timeseriestest.wel.obs",
     "test027_TimeseriesTest/mf2005/timeseriestest.bas",
     "test027_TimeseriesTest/mf2005/timeseriestest.dis",
     "test027_TimeseriesTest/mf2005/timeseriestest.ghb",
@@ -23391,10 +23381,12 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test027_TimeseriesTest_idomain/timeseriestest.mltarr",
     "test027_TimeseriesTest_idomain/timeseriestest.nam",
     "test027_TimeseriesTest_idomain/timeseriestest.npf",
+    "test027_TimeseriesTest_idomain/timeseriestest.obs",
     "test027_TimeseriesTest_idomain/timeseriestest.oc",
     "test027_TimeseriesTest_idomain/timeseriestest.rch",
     "test027_TimeseriesTest_idomain/timeseriestest.sto",
     "test027_TimeseriesTest_idomain/timeseriestest.wel",
+    "test027_TimeseriesTest_idomain/timeseriestest.wel.obs",
     "test027_TimeseriesTest_idomain/mf2005/timeseriestest.bas",
     "test027_TimeseriesTest_idomain/mf2005/timeseriestest.dis",
     "test027_TimeseriesTest_idomain/mf2005/timeseriestest.ghb",
@@ -23415,12 +23407,14 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test028_sfr/simulation.tdis",
     "test028_sfr/test1tr.dis",
     "test028_sfr/test1tr.evt",
+    "test028_sfr/test1tr.evt.obs",
     "test028_sfr/test1tr.ghb",
     "test028_sfr/test1tr.ic",
     "test028_sfr/test1tr.nam",
     "test028_sfr/test1tr.npf",
     "test028_sfr/test1tr.oc",
     "test028_sfr/test1tr.rch",
+    "test028_sfr/test1tr.sfr.obs",
     "test028_sfr/test1tr.sfr8",
     "test028_sfr/test1tr.sto",
     "test028_sfr/test1tr.wel",
@@ -23642,6 +23636,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test028_sfr_simple/mf6.npf6",
     "test028_sfr_simple/mf6.oc6",
     "test028_sfr_simple/mf6.rch6",
+    "test028_sfr_simple/mf6.sfr.obs",
     "test028_sfr_simple/mf6.sfr6",
     "test028_sfr_simple/mf6.sto6",
     "test028_sfr_simple/mf6.tdis6",
@@ -24031,6 +24026,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test034_nwtp2/test034_nwtp2.ims",
     "test034_nwtp2/test034_nwtp2.nam",
     "test034_nwtp2/test034_nwtp2.npf",
+    "test034_nwtp2/test034_nwtp2.obs",
     "test034_nwtp2/test034_nwtp2.oc",
     "test034_nwtp2/test034_nwtp2.rch",
     "test034_nwtp2/test034_nwtp2.sto",
@@ -24052,6 +24048,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test034_nwtp2_1d/test034_nwtp2.ims",
     "test034_nwtp2_1d/test034_nwtp2.nam",
     "test034_nwtp2_1d/test034_nwtp2.npf",
+    "test034_nwtp2_1d/test034_nwtp2.obs",
     "test034_nwtp2_1d/test034_nwtp2.oc",
     "test034_nwtp2_1d/test034_nwtp2.rch",
     "test034_nwtp2_1d/test034_nwtp2.sto",
@@ -24378,8 +24375,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test042_lake0_embeddedh/lake0_embedded.ic",
     "test042_lake0_embeddedh/lake0_embedded.ims",
     "test042_lake0_embeddedh/lake0_embedded.lak",
+    "test042_lake0_embeddedh/lake0_embedded.lak.obs",
     "test042_lake0_embeddedh/lake0_embedded.nam",
     "test042_lake0_embeddedh/lake0_embedded.npf",
+    "test042_lake0_embeddedh/lake0_embedded.obs",
     "test042_lake0_embeddedh/lake0_embedded.oc",
     "test042_lake0_embeddedh/lake0_embedded.tdis",
     "test042_lake0_embeddedh/mfsim.nam",
@@ -24394,8 +24393,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test042_lake0_embeddedh_conf/lake0_embedded.ic",
     "test042_lake0_embeddedh_conf/lake0_embedded.ims",
     "test042_lake0_embeddedh_conf/lake0_embedded.lak",
+    "test042_lake0_embeddedh_conf/lake0_embedded.lak.obs",
     "test042_lake0_embeddedh_conf/lake0_embedded.nam",
     "test042_lake0_embeddedh_conf/lake0_embedded.npf",
+    "test042_lake0_embeddedh_conf/lake0_embedded.obs",
     "test042_lake0_embeddedh_conf/lake0_embedded.oc",
     "test042_lake0_embeddedh_conf/lake0_embedded.tdis",
     "test042_lake0_embeddedh_conf/mfsim.nam",
@@ -24412,8 +24413,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test042_lake0_embeddedh_openclose/lake0_embedded.ic",
     "test042_lake0_embeddedh_openclose/lake0_embedded.ims",
     "test042_lake0_embeddedh_openclose/lake0_embedded.lak",
+    "test042_lake0_embeddedh_openclose/lake0_embedded.lak.obs",
     "test042_lake0_embeddedh_openclose/lake0_embedded.nam",
     "test042_lake0_embeddedh_openclose/lake0_embedded.npf",
+    "test042_lake0_embeddedh_openclose/lake0_embedded.obs",
     "test042_lake0_embeddedh_openclose/lake0_embedded.oc",
     "test042_lake0_embeddedh_openclose/lake0_embedded.tdis",
     "test042_lake0_embeddedh_openclose/lake_connection.ref",
@@ -24433,8 +24436,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test042_lake0_embeddedv/lake0_embedded.ic",
     "test042_lake0_embeddedv/lake0_embedded.ims",
     "test042_lake0_embeddedv/lake0_embedded.lak",
+    "test042_lake0_embeddedv/lake0_embedded.lak.obs",
     "test042_lake0_embeddedv/lake0_embedded.nam",
     "test042_lake0_embeddedv/lake0_embedded.npf",
+    "test042_lake0_embeddedv/lake0_embedded.obs",
     "test042_lake0_embeddedv/lake0_embedded.oc",
     "test042_lake0_embeddedv/lake0_embedded.tdis",
     "test042_lake0_embeddedv/mfsim.nam",
@@ -24449,8 +24454,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test042_lake0_embeddedv_conf/lake0_embedded.ic",
     "test042_lake0_embeddedv_conf/lake0_embedded.ims",
     "test042_lake0_embeddedv_conf/lake0_embedded.lak",
+    "test042_lake0_embeddedv_conf/lake0_embedded.lak.obs",
     "test042_lake0_embeddedv_conf/lake0_embedded.nam",
     "test042_lake0_embeddedv_conf/lake0_embedded.npf",
+    "test042_lake0_embeddedv_conf/lake0_embedded.obs",
     "test042_lake0_embeddedv_conf/lake0_embedded.oc",
     "test042_lake0_embeddedv_conf/lake0_embedded.tdis",
     "test042_lake0_embeddedv_conf/mfsim.nam",
@@ -24466,8 +24473,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test042_lake0_embeddedv_dev/lake0_embedded.ic",
     "test042_lake0_embeddedv_dev/lake0_embedded.ims",
     "test042_lake0_embeddedv_dev/lake0_embedded.lak",
+    "test042_lake0_embeddedv_dev/lake0_embedded.lak.obs",
     "test042_lake0_embeddedv_dev/lake0_embedded.nam",
     "test042_lake0_embeddedv_dev/lake0_embedded.npf",
+    "test042_lake0_embeddedv_dev/lake0_embedded.obs",
     "test042_lake0_embeddedv_dev/lake0_embedded.oc",
     "test042_lake0_embeddedv_dev/lake0_embedded.tdis",
     "test042_lake0_embeddedv_dev/mfsim.nam",
@@ -24478,6 +24487,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test043_drylake_dev/drylake.ic",
     "test043_drylake_dev/drylake.ims",
     "test043_drylake_dev/drylake.lak",
+    "test043_drylake_dev/drylake.lak.obs",
     "test043_drylake_dev/drylake.nam",
     "test043_drylake_dev/drylake.npf",
     "test043_drylake_dev/drylake.oc",
@@ -24498,8 +24508,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test044_lakebotfill_dev/lbf.ic",
     "test044_lakebotfill_dev/lbf.ims",
     "test044_lakebotfill_dev/lbf.lak",
+    "test044_lakebotfill_dev/lbf.lak.obs",
     "test044_lakebotfill_dev/lbf.nam",
     "test044_lakebotfill_dev/lbf.npf",
+    "test044_lakebotfill_dev/lbf.obs",
     "test044_lakebotfill_dev/lbf.oc",
     "test044_lakebotfill_dev/lbf.rch",
     "test044_lakebotfill_dev/lbf.sto",
@@ -24706,6 +24718,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake1tr_dev/lakeex1a.ic",
     "test045_lake1tr_dev/lakeex1a.ims",
     "test045_lake1tr_dev/lakeex1a.lak",
+    "test045_lake1tr_dev/lakeex1a.lak.obs",
     "test045_lake1tr_dev/lakeex1a.nam",
     "test045_lake1tr_dev/lakeex1a.npf",
     "test045_lake1tr_dev/lakeex1a.oc",
@@ -24733,6 +24746,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake1tr_nr/lakeex1a.ic",
     "test045_lake1tr_nr/lakeex1a.ims",
     "test045_lake1tr_nr/lakeex1a.lak",
+    "test045_lake1tr_nr/lakeex1a.lak.obs",
     "test045_lake1tr_nr/lakeex1a.nam",
     "test045_lake1tr_nr/lakeex1a.npf",
     "test045_lake1tr_nr/lakeex1a.oc",
@@ -24761,12 +24775,14 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake2tr_dev/lakeex2a.ic",
     "test045_lake2tr_dev/lakeex2a.ims",
     "test045_lake2tr_dev/lakeex2a.lak",
+    "test045_lake2tr_dev/lakeex2a.lak.obs",
     "test045_lake2tr_dev/lakeex2a.mvr",
     "test045_lake2tr_dev/lakeex2a.nam",
     "test045_lake2tr_dev/lakeex2a.npf",
     "test045_lake2tr_dev/lakeex2a.oc",
     "test045_lake2tr_dev/lakeex2a.rch",
     "test045_lake2tr_dev/lakeex2a.sfr",
+    "test045_lake2tr_dev/lakeex2a.sfr.obs",
     "test045_lake2tr_dev/lakeex2a.sto",
     "test045_lake2tr_dev/lakeex2a.tdis",
     "test045_lake2tr_dev/mfsim.nam",
@@ -24792,6 +24808,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake2tr_il_dev/lakeex2a.dis",
     "test045_lake2tr_il_dev/lakeex2a.ic",
     "test045_lake2tr_il_dev/lakeex2a.ims",
+    "test045_lake2tr_il_dev/lakeex2a.lak.obs",
     "test045_lake2tr_il_dev/lakeex2a.nam",
     "test045_lake2tr_il_dev/lakeex2a.npf",
     "test045_lake2tr_il_dev/lakeex2a.oc",
@@ -24815,12 +24832,14 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake2tr_nr/lakeex2a.ic",
     "test045_lake2tr_nr/lakeex2a.ims",
     "test045_lake2tr_nr/lakeex2a.lak",
+    "test045_lake2tr_nr/lakeex2a.lak.obs",
     "test045_lake2tr_nr/lakeex2a.mvr",
     "test045_lake2tr_nr/lakeex2a.nam",
     "test045_lake2tr_nr/lakeex2a.npf",
     "test045_lake2tr_nr/lakeex2a.oc",
     "test045_lake2tr_nr/lakeex2a.rch",
     "test045_lake2tr_nr/lakeex2a.sfr",
+    "test045_lake2tr_nr/lakeex2a.sfr.obs",
     "test045_lake2tr_nr/lakeex2a.sto",
     "test045_lake2tr_nr/lakeex2a.tdis",
     "test045_lake2tr_nr/mfsim.nam",
@@ -24848,6 +24867,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake2tr_xsfra_dev/lakeex2a.evt",
     "test045_lake2tr_xsfra_dev/lakeex2a.ic",
     "test045_lake2tr_xsfra_dev/lakeex2a.ims",
+    "test045_lake2tr_xsfra_dev/lakeex2a.lak.obs",
     "test045_lake2tr_xsfra_dev/lakeex2a.nam",
     "test045_lake2tr_xsfra_dev/lakeex2a.npf",
     "test045_lake2tr_xsfra_dev/lakeex2a.oc",
@@ -24866,6 +24886,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake2tr_xsfrb_dev/lakeex2a.evt",
     "test045_lake2tr_xsfrb_dev/lakeex2a.ic",
     "test045_lake2tr_xsfrb_dev/lakeex2a.ims",
+    "test045_lake2tr_xsfrb_dev/lakeex2a.lak.obs",
     "test045_lake2tr_xsfrb_dev/lakeex2a.nam",
     "test045_lake2tr_xsfrb_dev/lakeex2a.npf",
     "test045_lake2tr_xsfrb_dev/lakeex2a.oc",
@@ -24884,6 +24905,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake2tr_xsfrc_dev/lakeex2a.evt",
     "test045_lake2tr_xsfrc_dev/lakeex2a.ic",
     "test045_lake2tr_xsfrc_dev/lakeex2a.ims",
+    "test045_lake2tr_xsfrc_dev/lakeex2a.lak.obs",
     "test045_lake2tr_xsfrc_dev/lakeex2a.nam",
     "test045_lake2tr_xsfrc_dev/lakeex2a.npf",
     "test045_lake2tr_xsfrc_dev/lakeex2a.oc",
@@ -24902,6 +24924,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake2tr_xsfrd_dev/lakeex2a.evt",
     "test045_lake2tr_xsfrd_dev/lakeex2a.ic",
     "test045_lake2tr_xsfrd_dev/lakeex2a.ims",
+    "test045_lake2tr_xsfrd_dev/lakeex2a.lak.obs",
     "test045_lake2tr_xsfrd_dev/lakeex2a.nam",
     "test045_lake2tr_xsfrd_dev/lakeex2a.npf",
     "test045_lake2tr_xsfrd_dev/lakeex2a.oc",
@@ -24920,6 +24943,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake2tr_xsfre_dev/lakeex2a.evt",
     "test045_lake2tr_xsfre_dev/lakeex2a.ic",
     "test045_lake2tr_xsfre_dev/lakeex2a.ims",
+    "test045_lake2tr_xsfre_dev/lakeex2a.lak.obs",
     "test045_lake2tr_xsfre_dev/lakeex2a.mvr",
     "test045_lake2tr_xsfre_dev/lakeex2a.nam",
     "test045_lake2tr_xsfre_dev/lakeex2a.npf",
@@ -24940,12 +24964,14 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake4ss/lakeex4.ic",
     "test045_lake4ss/lakeex4.ims",
     "test045_lake4ss/lakeex4.lak",
+    "test045_lake4ss/lakeex4.lak.obs",
     "test045_lake4ss/lakeex4.nam",
     "test045_lake4ss/lakeex4.npf",
     "test045_lake4ss/lakeex4.oc",
     "test045_lake4ss/lakeex4.rch",
     "test045_lake4ss/lakeex4.tdis",
     "test045_lake4ss/mfsim.nam",
+    "test045_lake4ss/rch.obs",
 ]
 "mf6/test/test045_lake4ss_cl_dev" = [
     "test045_lake4ss_cl_dev/lakeex4.dis",
@@ -24953,6 +24979,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake4ss_cl_dev/lakeex4.ic",
     "test045_lake4ss_cl_dev/lakeex4.ims",
     "test045_lake4ss_cl_dev/lakeex4.lak",
+    "test045_lake4ss_cl_dev/lakeex4.lak.obs",
     "test045_lake4ss_cl_dev/lakeex4.nam",
     "test045_lake4ss_cl_dev/lakeex4.npf",
     "test045_lake4ss_cl_dev/lakeex4.oc",
@@ -24967,12 +24994,14 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake4ss_dev/lakeex4.ic",
     "test045_lake4ss_dev/lakeex4.ims",
     "test045_lake4ss_dev/lakeex4.lak",
+    "test045_lake4ss_dev/lakeex4.lak.obs",
     "test045_lake4ss_dev/lakeex4.nam",
     "test045_lake4ss_dev/lakeex4.npf",
     "test045_lake4ss_dev/lakeex4.oc",
     "test045_lake4ss_dev/lakeex4.rch",
     "test045_lake4ss_dev/lakeex4.tdis",
     "test045_lake4ss_dev/mfsim.nam",
+    "test045_lake4ss_dev/rch.obs",
     "test045_lake4ss_dev/mf2005/testcase.ba6",
     "test045_lake4ss_dev/mf2005/testcase.dis",
     "test045_lake4ss_dev/mf2005/testcase.gag",
@@ -25001,6 +25030,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake4ss_il_dev/lakeex4_il.ic",
     "test045_lake4ss_il_dev/lakeex4_il.ims",
     "test045_lake4ss_il_dev/lakeex4_il.lak",
+    "test045_lake4ss_il_dev/lakeex4_il.lak.obs",
     "test045_lake4ss_il_dev/lakeex4_il.nam",
     "test045_lake4ss_il_dev/lakeex4_il.npf",
     "test045_lake4ss_il_dev/lakeex4_il.oc",
@@ -25036,6 +25066,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake4ss_nr_dev/lakeex4.ic",
     "test045_lake4ss_nr_dev/lakeex4.ims",
     "test045_lake4ss_nr_dev/lakeex4.lak",
+    "test045_lake4ss_nr_dev/lakeex4.lak.obs",
     "test045_lake4ss_nr_dev/lakeex4.nam",
     "test045_lake4ss_nr_dev/lakeex4.npf",
     "test045_lake4ss_nr_dev/lakeex4.oc",
@@ -25073,8 +25104,10 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test045_lake4ss_nr_embedded/lakeex4.ic",
     "test045_lake4ss_nr_embedded/lakeex4.ims",
     "test045_lake4ss_nr_embedded/lakeex4.lak",
+    "test045_lake4ss_nr_embedded/lakeex4.lak.obs",
     "test045_lake4ss_nr_embedded/lakeex4.nam",
     "test045_lake4ss_nr_embedded/lakeex4.npf",
+    "test045_lake4ss_nr_embedded/lakeex4.obs",
     "test045_lake4ss_nr_embedded/lakeex4.oc",
     "test045_lake4ss_nr_embedded/lakeex4.rch",
     "test045_lake4ss_nr_embedded/lakeex4.tdis",
@@ -25330,6 +25363,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test051_uzfp2/uzfp2.sto",
     "test051_uzfp2/uzfp2.tdis",
     "test051_uzfp2/uzfp2.uzf",
+    "test051_uzfp2/uzfp2.uzf.obs",
     "test051_uzfp2/uzfp2.wel",
     "test051_uzfp2/mf2005/UZFtest2.ba6",
     "test051_uzfp2/mf2005/UZFtest2.dis",
@@ -25360,6 +25394,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test051_uzfp2TS/uzfp2.tdis",
     "test051_uzfp2TS/uzfp2.uzf",
     "test051_uzfp2TS/uzfp2.uzf.finf.ts",
+    "test051_uzfp2TS/uzfp2.uzf.obs",
     "test051_uzfp2TS/uzfp2.uzf.ts",
     "test051_uzfp2TS/uzfp2.wel",
     "test051_uzfp2TS/zonebudget/zbud.nam",
@@ -25442,6 +25477,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test051_uzfp2_openclose/uzfp2.tdis",
     "test051_uzfp2_openclose/uzfp2.uzf",
     "test051_uzfp2_openclose/uzfp2.uzf.data.ref",
+    "test051_uzfp2_openclose/uzfp2.uzf.obs",
     "test051_uzfp2_openclose/uzfp2.uzf.per2.ref",
     "test051_uzfp2_openclose/uzfp2.uzf.per3.ref",
     "test051_uzfp2_openclose/uzfp2.wel",
@@ -25584,6 +25620,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
 "mf6/test/test051_uzfp3_lakmvr_v2_dev" = [
     "test051_uzfp3_lakmvr_v2_dev/description.txt",
     "test051_uzfp3_lakmvr_v2_dev/mfsim.nam",
+    "test051_uzfp3_lakmvr_v2_dev/sfr.obs",
     "test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.dis",
     "test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.ghb",
     "test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.ic",
@@ -25598,6 +25635,9 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.tdis",
     "test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.uzf",
     "test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.wel",
+    "test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2_head.obs",
+    "test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2_lak.obs",
+    "test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2_uzf.obs",
     "test051_uzfp3_lakmvr_v2_dev/zonebudget/zbud.nam",
     "test051_uzfp3_lakmvr_v2_dev/zonebudget/zbud.zon",
     "test051_uzfp3_lakmvr_v2_dev/zonebudget/zbud_layers.nam",
@@ -25608,6 +25648,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
 "mf6/test/test051_uzfp3_wellakmvr_v2" = [
     "test051_uzfp3_wellakmvr_v2/description.txt",
     "test051_uzfp3_wellakmvr_v2/mfsim.nam",
+    "test051_uzfp3_wellakmvr_v2/sfr.obs",
     "test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.dis",
     "test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.ghb",
     "test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.ic",
@@ -25622,6 +25663,9 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.tdis",
     "test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.uzf",
     "test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.wel",
+    "test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2_head.obs",
+    "test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2_lak.obs",
+    "test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2_uzf.obs",
     "test051_uzfp3_wellakmvr_v2/zonebudget/zbud.nam",
     "test051_uzfp3_wellakmvr_v2/zonebudget/zbud.zon",
     "test051_uzfp3_wellakmvr_v2/zonebudget/zbud_layers.nam",
@@ -25950,7 +25994,9 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test061_csub_holly/description.txt",
     "test061_csub_holly/holly.chd",
     "test061_csub_holly/holly.csub",
+    "test061_csub_holly/holly.csub.obs",
     "test061_csub_holly/holly.dis",
+    "test061_csub_holly/holly.gwf.obs",
     "test061_csub_holly/holly.ic",
     "test061_csub_holly/holly.ims",
     "test061_csub_holly/holly.nam",
@@ -25963,12 +26009,14 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
 "mf6/test/test061_csub_jacob" = [
     "test061_csub_jacob/description.txt",
     "test061_csub_jacob/fig4_base.csub",
+    "test061_csub_jacob/fig4_base.csub.obs",
     "test061_csub_jacob/fig4_base.dis",
     "test061_csub_jacob/fig4_base.ic",
     "test061_csub_jacob/fig4_base.ims",
     "test061_csub_jacob/fig4_base.load.ts",
     "test061_csub_jacob/fig4_base.nam",
     "test061_csub_jacob/fig4_base.npf",
+    "test061_csub_jacob/fig4_base.obs",
     "test061_csub_jacob/fig4_base.oc",
     "test061_csub_jacob/fig4_base.sto",
     "test061_csub_jacob/fig4_base.tdis",
@@ -26003,6 +26051,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test101_fhb/mfsim.nam",
     "test101_fhb/test_fhb.dis",
     "test101_fhb/test_fhb.drn",
+    "test101_fhb/test_fhb.drn.obs",
     "test101_fhb/test_fhb.fhb.chd",
     "test101_fhb/test_fhb.fhb.chd.ts",
     "test101_fhb/test_fhb.fhb.wel",
@@ -26025,6 +26074,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
 ]
 "mf6/test/test102_wel_mvr" = [
     "test102_wel_mvr/mfsim.nam",
+    "test102_wel_mvr/wel.obs",
     "test102_wel_mvr/welmvr.dis",
     "test102_wel_mvr/welmvr.ibound.chd",
     "test102_wel_mvr/welmvr.ic",
@@ -26046,6 +26096,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test102_wel_mvr/mf2005/testwelmvr.wel",
 ]
 "mf6/test/test103_drn_mvr" = [
+    "test103_drn_mvr/drn.obs",
     "test103_drn_mvr/drnmvr.dis",
     "test103_drn_mvr/drnmvr.drn",
     "test103_drn_mvr/drnmvr.ibound.chd",
@@ -26069,6 +26120,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
 ]
 "mf6/test/test104_riv_mvr" = [
     "test104_riv_mvr/mfsim.nam",
+    "test104_riv_mvr/riv.obs",
     "test104_riv_mvr/rivmvr.dis",
     "test104_riv_mvr/rivmvr.drn",
     "test104_riv_mvr/rivmvr.ibound.chd",
@@ -26092,6 +26144,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test104_riv_mvr/mf2005/testrivmvr.wel",
 ]
 "mf6/test/test105_ghb_mvr" = [
+    "test105_ghb_mvr/ghb.obs",
     "test105_ghb_mvr/ghbmvr.dis",
     "test105_ghb_mvr/ghbmvr.ghb",
     "test105_ghb_mvr/ghbmvr.ibound.chd",
@@ -26125,6 +26178,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test106_tsnodata/model.sto",
     "test106_tsnodata/model.wel",
     "test106_tsnodata/model_left.chd",
+    "test106_tsnodata/model_left.chd.obs",
     "test106_tsnodata/model_right.chd",
     "test106_tsnodata/model_well_pump.ts",
     "test106_tsnodata/simulation.tdis",
@@ -26138,6 +26192,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test106_tsnodata/alt_model/model.sto",
     "test106_tsnodata/alt_model/model.wel",
     "test106_tsnodata/alt_model/model_left.chd",
+    "test106_tsnodata/alt_model/model_left.chd.obs",
     "test106_tsnodata/alt_model/model_right.chd",
     "test106_tsnodata/alt_model/model_well1_pump.ts",
     "test106_tsnodata/alt_model/model_well2_pump.ts",
@@ -26157,6 +26212,7 @@ hash = "0a1a19b3f7f2a51ea969219ee4ad8852cb9f2572712ce284f57c07f4ccf59192"
     "test106_tsnodata/alt_model/model.sto",
     "test106_tsnodata/alt_model/model.wel",
     "test106_tsnodata/alt_model/model_left.chd",
+    "test106_tsnodata/alt_model/model_left.chd.obs",
     "test106_tsnodata/alt_model/model_right.chd",
     "test106_tsnodata/alt_model/model_well1_pump.ts",
     "test106_tsnodata/alt_model/model_well2_pump.ts",
