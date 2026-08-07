@@ -1,6 +1,5 @@
 BEGIN OPTIONS
   PRINT_FLOWS
-  UNIT_CONVERSION 1.00
 END OPTIONS
 
 #dimension block is required
