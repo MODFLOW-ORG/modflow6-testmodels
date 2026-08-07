@@ -9806,7 +9806,7 @@ hash = "d9363505f500de45410f6e2a28ca70c672ff025cd07439e63307a92fa43212ca"
 
 [files."test028_sfr/test1tr.sfr8"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr/test1tr.sfr8"
-hash = "d52b74928e9f6bc4acabafcdd427afb891c8d814850968aee414a6aa6d792bcc"
+hash = "0e5bcfc1845b16309de179d5b69bb77b708ef93e35be3695ce2d363c50ada400"
 
 [files."test028_sfr/test1tr.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr/test1tr.sto"
@@ -9962,7 +9962,7 @@ hash = "25bbd1956ac009fc1a23f3145e55331496dbe8d76f9c391bffd020cbed78e91e"
 
 [files."test028_sfr_mvr/test1tr.sfr8"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_mvr/test1tr.sfr8"
-hash = "e07dc0db28409b3b98004f9c56c5b0d61c333f27881f1d86f322b96627ed500f"
+hash = "c8e15f88204da57ff7f4e2241a31b8d90a1524e526e2ad16fc3e96ef34440e74"
 
 [files."test028_sfr_mvr/test1tr.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_mvr/test1tr.sto"
@@ -10138,7 +10138,7 @@ hash = "3df927e7a6e838c08c7a335f4fc95b03630bb629ad2177c9af2e587f7c4e9bdd"
 
 [files."test028_sfr_mvr_openclose/test1tr.sfr8"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_mvr_openclose/test1tr.sfr8"
-hash = "06e03ada2cfef9cf2d63b32945d31d6ab5598620b73b44fb874139f982d31d63"
+hash = "be475d303140c3c35b1ab9ee2821bc9c99985754fab2db5e1dab00d55a23f9cd"
 
 [files."test028_sfr_mvr_openclose/test1tr.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_mvr_openclose/test1tr.sto"
@@ -10218,7 +10218,7 @@ hash = "0d0a5b79c48065d1fa65632c4b1c749d74d366efc6a9ba1783f1e6914ad6a970"
 
 [files."test028_sfr_rewet/mf6.sfr6"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_rewet/mf6.sfr6"
-hash = "0b30d40c4cb5100b40b862fb9a079d418bb41f4a45802508912aa86662fe0ddb"
+hash = "fc8e0c7b6adc85e1831b80a609e1ffe38dc7b8630564663f3722f2a87f2cb176"
 
 [files."test028_sfr_rewet/mf6.sto6"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_rewet/mf6.sto6"
@@ -10302,7 +10302,7 @@ hash = "0d0a5b79c48065d1fa65632c4b1c749d74d366efc6a9ba1783f1e6914ad6a970"
 
 [files."test028_sfr_rewet_drain/mf6.sfr6"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_rewet_drain/mf6.sfr6"
-hash = "b2cb7a53f84f0dd1353f6944aeae069f88bb15d10222f5b75eba298fc6e9925e"
+hash = "5ba9f4a3b17381843dd16d9f985468ae633ec101da9a9fb92c21b380dd0dbf60"
 
 [files."test028_sfr_rewet_drain/mf6.sto6"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_rewet_drain/mf6.sto6"
@@ -10354,7 +10354,7 @@ hash = "0d0a5b79c48065d1fa65632c4b1c749d74d366efc6a9ba1783f1e6914ad6a970"
 
 [files."test028_sfr_rewet_nr/mf6.sfr6"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_rewet_nr/mf6.sfr6"
-hash = "0b30d40c4cb5100b40b862fb9a079d418bb41f4a45802508912aa86662fe0ddb"
+hash = "fc8e0c7b6adc85e1831b80a609e1ffe38dc7b8630564663f3722f2a87f2cb176"
 
 [files."test028_sfr_rewet_nr/mf6.sto6"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_rewet_nr/mf6.sto6"
@@ -10474,7 +10474,7 @@ hash = "0d0a5b79c48065d1fa65632c4b1c749d74d366efc6a9ba1783f1e6914ad6a970"
 
 [files."test028_sfr_rewet_simple/mf6.sfr6"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_rewet_simple/mf6.sfr6"
-hash = "ce6065b2fe14cbd578d210fa5807786e7befe0427658546e193360d47b9beb71"
+hash = "68ecd245f6b1d5fbefd7abfeb7181db7a055fee3dfee03b51290a7f96e4484a3"
 
 [files."test028_sfr_rewet_simple/mf6.sto6"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_rewet_simple/mf6.sto6"
@@ -10594,7 +10594,7 @@ hash = "48470e5ae82b5a83bc2813cd7d655d2809a0e5b00893cf53024d1447cea01708"
 
 [files."test028_sfr_simple/mf6.sfr6"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_simple/mf6.sfr6"
-hash = "8018eabb094720a60ee1f831070178f9352b6c0c3cb6a3220b6fb9e57c6feee7"
+hash = "9a6d957d8b0a3de1b03fdfef3393f2585c020e82671fffe7199a03fca6a32f34"
 
 [files."test028_sfr_simple/mf6.sto6"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test028_sfr_simple/mf6.sto6"
@@ -10882,7 +10882,7 @@ hash = "400bb6af51fe416cb19b272e76a9ed488535191b8f1fc16ba1efc697398bef17"
 
 [files."test029_lgrsfr_parent/test029.sfr8"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test029_lgrsfr_parent/test029.sfr8"
-hash = "786c911ccca1542fae3eb54f5f99fd4c036319fc67dec0006e0d9291025eb8bb"
+hash = "48e92373a6e6fb5f3651fdae0170dda66131cf8710b5a2e5021799d97a3c7827"
 
 [files."test029_lgrsfr_parent/test029.wel"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test029_lgrsfr_parent/test029.wel"
@@ -11838,7 +11838,7 @@ hash = "bc220339abfff2023930edf253dcdb96f8b97c0b9b8cc3cc9196b29eb7dbe80d"
 
 [files."test032_sfr/test032.sfr8"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test032_sfr/test032.sfr8"
-hash = "189e4ffcceacf18f67ec6201bd2fc1e1738890579ce7d46ef256fbda03639d5b"
+hash = "8cfe2ce443dc9d33645d8f7457a74e9d24c4b29a6fe53e4e221fb070a04ea442"
 
 [files."test032_sfr/time.ts"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test032_sfr/time.ts"
@@ -14750,7 +14750,7 @@ hash = "f615c770b172dbf367bfdd4381512a77e99d150d99500557ec5eb16e6c796499"
 
 [files."test045_lake2tr_dev/lakeex2a.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_dev/lakeex2a.sfr"
-hash = "d30aab521c7cab6957c134c2e6f3a834bc67f6b47d3876411d3d5b03275c4cce"
+hash = "6cc0791ed81302790842a15d52af3cc18b7eb673ba64524649290f007d4120b8"
 
 [files."test045_lake2tr_dev/lakeex2a.sfr.obs"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_dev/lakeex2a.sfr.obs"
@@ -14962,7 +14962,7 @@ hash = "f615c770b172dbf367bfdd4381512a77e99d150d99500557ec5eb16e6c796499"
 
 [files."test045_lake2tr_nr/lakeex2a.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_nr/lakeex2a.sfr"
-hash = "d30aab521c7cab6957c134c2e6f3a834bc67f6b47d3876411d3d5b03275c4cce"
+hash = "6cc0791ed81302790842a15d52af3cc18b7eb673ba64524649290f007d4120b8"
 
 [files."test045_lake2tr_nr/lakeex2a.sfr.obs"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test045_lake2tr_nr/lakeex2a.sfr.obs"
@@ -16922,7 +16922,7 @@ hash = "e1db875ae930a358a11a4be46103c404ee29d92d543fb5e33e563973c068d7f2"
 
 [files."test051_uzfp2/uzfp2.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2/uzfp2.sfr"
-hash = "5db771d6a857becc261064f3e9098d97c24d52485a72f3ed292bde04a762138c"
+hash = "489770453d6d6b9ae5580dbfad24720828cfcedd4529274614b8d87f330fbed0"
 
 [files."test051_uzfp2/uzfp2.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2/uzfp2.sto"
@@ -16990,7 +16990,7 @@ hash = "e1db875ae930a358a11a4be46103c404ee29d92d543fb5e33e563973c068d7f2"
 
 [files."test051_uzfp2TS/uzfp2.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2TS/uzfp2.sfr"
-hash = "5db771d6a857becc261064f3e9098d97c24d52485a72f3ed292bde04a762138c"
+hash = "489770453d6d6b9ae5580dbfad24720828cfcedd4529274614b8d87f330fbed0"
 
 [files."test051_uzfp2TS/uzfp2.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2TS/uzfp2.sto"
@@ -17114,7 +17114,7 @@ hash = "fd94ebb2595a5dbc1741dba6d946b9d247c4681b7a16b1b70232a1ef4f3ceea6"
 
 [files."test051_uzfp2_mvr/uzfp2_mvr.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2_mvr/uzfp2_mvr.sfr"
-hash = "6927e1820515171e569a1f8febeb4998a26ec46214a9355e93e4c371a1778ed3"
+hash = "ba256956e5c43d0c615b27f8de25915e9c8b6cf5e39f3cbc1afe13e3e9fc674a"
 
 [files."test051_uzfp2_mvr/uzfp2_mvr.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2_mvr/uzfp2_mvr.sto"
@@ -17226,7 +17226,7 @@ hash = "fb9255d8eaf5ea5b32c55b2f7f5b8c12c80c4be895e57cce5df8ea4bd8e12e54"
 
 [files."test051_uzfp2_nouzf/uzfp2_nouzf.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2_nouzf/uzfp2_nouzf.sfr"
-hash = "f187b6ffb7ab476caa590cf50553ceb1b6ab115255c30e451c96266d40669c35"
+hash = "78176bcec2b5187c26dff43427d449695823ed1ad8bcb5a01a1a4241a3075650"
 
 [files."test051_uzfp2_nouzf/uzfp2_nouzf.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2_nouzf/uzfp2_nouzf.sto"
@@ -17330,7 +17330,7 @@ hash = "08ad3b387c532be7972cf53d74edd7c275fab3ffc748176730a1e1af8e8c864e"
 
 [files."test051_uzfp2_openclose/uzfp2.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2_openclose/uzfp2.sfr"
-hash = "fb424df89295e84b36f4dc54cf079db24020a6ec29716759a0754b465499af73"
+hash = "29fa8d07a6a0374f52adeffee67730ada4d8c279ea32ce76d1f103748d7ab0b6"
 
 [files."test051_uzfp2_openclose/uzfp2.sfr.connect.ref"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp2_openclose/uzfp2.sfr.connect.ref"
@@ -17478,7 +17478,7 @@ hash = "ad86e52c3e328b746628e027398fb219b50ec4ca4a008e784b45669713626725"
 
 [files."test051_uzfp3_aeET_lakmvr_dev/uzfp3_lakmvr.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_aeET_lakmvr_dev/uzfp3_lakmvr.sfr"
-hash = "b67aaf69f69a7149673480c81b4a395141a82d8095650d38d924397fe8376d9d"
+hash = "4e7a142555c2ffeabb087924bd208370a97f46f95e13dd57b27a1f3342056b17"
 
 [files."test051_uzfp3_aeET_lakmvr_dev/uzfp3_lakmvr.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_aeET_lakmvr_dev/uzfp3_lakmvr.sto"
@@ -17594,7 +17594,7 @@ hash = "ad86e52c3e328b746628e027398fb219b50ec4ca4a008e784b45669713626725"
 
 [files."test051_uzfp3_lakmvr_2uzfmodels_dev/uzfp3_lakmvr.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_2uzfmodels_dev/uzfp3_lakmvr.sfr"
-hash = "b67aaf69f69a7149673480c81b4a395141a82d8095650d38d924397fe8376d9d"
+hash = "4e7a142555c2ffeabb087924bd208370a97f46f95e13dd57b27a1f3342056b17"
 
 [files."test051_uzfp3_lakmvr_2uzfmodels_dev/uzfp3_lakmvr.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_2uzfmodels_dev/uzfp3_lakmvr.sto"
@@ -17706,7 +17706,7 @@ hash = "ad86e52c3e328b746628e027398fb219b50ec4ca4a008e784b45669713626725"
 
 [files."test051_uzfp3_lakmvr_dev/uzfp3_lakmvr.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_dev/uzfp3_lakmvr.sfr"
-hash = "aa36a4b3658451769718102255ac9e6d373356458601b803c48a6639a7d7c84b"
+hash = "6356b1c5cad21946b1d4249c9ab8a8a3f22caf277fb354f60b14ea9175688b0c"
 
 [files."test051_uzfp3_lakmvr_dev/uzfp3_lakmvr.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_dev/uzfp3_lakmvr.sto"
@@ -17826,7 +17826,7 @@ hash = "f66ca72830bc02b56d58c293f1efdfb6c5a786dd6ec05120da63335c6b5c386f"
 
 [files."test051_uzfp3_lakmvr_nouzf_dev/uzfp3_lakmvr_nouzf.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_nouzf_dev/uzfp3_lakmvr_nouzf.sfr"
-hash = "fed07b4f9aca3e3c3991576281b29ce64cc856b2f8c7ec296b7644f9bc1beaa2"
+hash = "1d3e3b059fbe16ffa68b280ef4c75a6a528c37b339b22f8453ae4a2d9811b19f"
 
 [files."test051_uzfp3_lakmvr_nouzf_dev/uzfp3_lakmvr_nouzf.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_nouzf_dev/uzfp3_lakmvr_nouzf.sto"
@@ -17890,7 +17890,7 @@ hash = "ad86e52c3e328b746628e027398fb219b50ec4ca4a008e784b45669713626725"
 
 [files."test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.sfr"
-hash = "0534b3ff462b68e48f0325552991d23ebed814a889e9bf0e262eb33ef268285d"
+hash = "34ac0291d02141aec8a485287433553332d8607c52d1137e79a8fe536ce8898b"
 
 [files."test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_lakmvr_v2_dev/uzfp3_lakmvr_v2.sto"
@@ -17994,7 +17994,7 @@ hash = "ad86e52c3e328b746628e027398fb219b50ec4ca4a008e784b45669713626725"
 
 [files."test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.sfr"
-hash = "0534b3ff462b68e48f0325552991d23ebed814a889e9bf0e262eb33ef268285d"
+hash = "34ac0291d02141aec8a485287433553332d8607c52d1137e79a8fe536ce8898b"
 
 [files."test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.sto"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test051_uzfp3_wellakmvr_v2/uzfp3_lakmvr_v2.sto"
@@ -18822,7 +18822,7 @@ hash = "6ea102d94052258662b5c6a872f98eb3ac195519124d9b21ca84a35993c7bedc"
 
 [files."test056_mt3dms_usgs_gwtex_IR_dev/mf6-gwt.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test056_mt3dms_usgs_gwtex_IR_dev/mf6-gwt.sfr"
-hash = "b54d64b763a25b5114c2ebfd93d0c09818a6dcf4f7ae39fe7be5195d50e34bb6"
+hash = "d9f60d2e3081e694320b1a149d7dc35e67810a3916bf7f2b8e18043958f79465"
 
 [files."test056_mt3dms_usgs_gwtex_IR_dev/mf6-gwt.tdis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test056_mt3dms_usgs_gwtex_IR_dev/mf6-gwt.tdis"
@@ -18986,7 +18986,7 @@ hash = "30c71aee48510baca612d0cb2340a2bf5f6941cdff19c8335285a70df9380e3b"
 
 [files."test056_mt3dms_usgs_gwtex_dev/mf6-gwt.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test056_mt3dms_usgs_gwtex_dev/mf6-gwt.sfr"
-hash = "07367836a5a2b9eb43b326937dfb3ebdd5083358c226be9a824929b20c2810b6"
+hash = "2df71fbf900155fbbb8d5aed0863825c67213214744a33f7ade020a12f25b0f1"
 
 [files."test056_mt3dms_usgs_gwtex_dev/mf6-gwt.tdis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test056_mt3dms_usgs_gwtex_dev/mf6-gwt.tdis"
@@ -19402,7 +19402,7 @@ hash = "05ea69b1884cca6b3d6536fefda44f15df446cdfec6f6e69becb1ffcac69db2b"
 
 [files."test100_ss_ic/test1ss_ic.sfr"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test100_ss_ic/test1ss_ic.sfr"
-hash = "05b4c4de1d2ca2321e45d24120f11f8e688006e9b2e94c266eb45504e57b2096"
+hash = "a331a9997225b8dd81075e4229e3b22cfae21695a5ebb83059fe6c47e3366d68"
 
 [files."test100_ss_ic/test1ss_ic.tdis"]
 url = "https://raw.githubusercontent.com/MODFLOW-ORG/modflow6-testmodels/develop/mf6/test100_ss_ic/test1ss_ic.tdis"
